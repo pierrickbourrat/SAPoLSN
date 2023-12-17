@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pierrick Bourrat
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Pierrick
+last_name: Bourrat
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Founding member
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Macquarie University
+    url: 'pierrickbourrat.com'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include core concepts in evolutionary theory, causation and the analogy between biological and cultural evolution.
 
 interests:
   - Artificial Intelligence
@@ -26,16 +26,19 @@ interests:
   - Information Retrieval
 
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+ courses:
+    - course: PhD in Philosophy
+      institution: The University of Sydney
+      year: 2015
+    - course: MA in Philosophy
+      institution: University Paris Diderot
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Evolutionary Biology & Ecology
+      institution: The University of Montpellier
+      year: 2006
+    - course: BSc in Biology
+      institution: University Blaise Pascal (Clermont-Ferrand)
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
