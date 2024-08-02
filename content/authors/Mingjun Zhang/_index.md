@@ -1,47 +1,35 @@
 ---
 # Display name
-title: Pierrick Bourrat
+title: Mingjun Zhang
 
 # Full Name (for SEO)
-first_name: Pierrick
-last_name: Bourrat
+first_name: Mingjun
+last_name: Zhang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Philosopher of Biology
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
-    url: 'https://www.mq.edu.au/'
+  - name: Fudan University
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the various concepts deployed in evolutionary theory, causation, and the interplay between biological and cultural evolution.
+bio: Mingjun's research...
 
 interests:
-  - Evolutionary theory
-  - Natural selection
-  - Levels of selection
-  - Individuality
-  - Causation
+  - 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Philosophy
-      institution: The University of Sydney
-      year: 2015
-    - course: MA in Philosophy
-      institution: University Paris Diderot
-      year: 2009
-    - course: MSc in Evolutionary Biology & Ecology
-      institution: The University of Montpellier
-      year: 2006
-    - course: BSc in Biology
-      institution: University Blaise Pascal (Clermont-Ferrand)
-      year: 2006
+      institution: University of Pennsylvania
+      year: 2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -77,12 +65,4 @@ highlight_name: false
 user_groups:
   - Founders
 ---
-Pierrick is a Senior Lecturer and DECRA Fellow at Macquarie University, Sydney, Australia. He specialises in philosophy of biology. Together with Paul Griffiths, he head the [Theory and Method in Biosciences](https://tmbiosci.org/) group.
-
-From 2017 to 2020 he was a Macquarie University Research Fellow. In 2015, he completed a PhD in philosophy of biology at the University of Sydney.
-
-His work focuses on core concepts of evolutionary theory, such as fitness and heritability, as well as evolutionary transitions in individuality and causation.
-
-His other interests include the interplay between biological and cultural evolution and the evolution of religious beliefs.
-
-
+Mingjun is a philosopher of biology

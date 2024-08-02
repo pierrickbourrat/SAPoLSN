@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **SAPoLSN** has been founded by Pierrick Bourrat (Macquarie University), Qiaoying Lu (Peking University), Mingjun Zhang (Fudan University) and Tung-Ying Wu (Institute of Philosophy in the Chinese Academic of Science-CASSIP) under the mentorship of Professor Chuang Liu (Fudan/CASIP) and Emeritus Professor Paul Griffiths.
+        The *
   
   - block: collection
     content:
