@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Sino-Australian Philosophy of Life Sciences Network
+        SAPoLSN
       image:
         filename: SAPoLSNlogo.png
       text: |
         <br>
         
-        The **SAPoLNS** is a network of researchers coming from four institutions--Peking University, Fudan University, the Institute of Philosophy in the Chinese Academy of Sciences, and Macquarie University. Its purpose is to introduce the most important recent developments in the philosophy of life sciences to graduate students and young scholars, and to promote research and educational cooperation between Chinese and international philosophers of science.
+        The **Sino-Australian Philosophy of Life Sciences Network (SAPoLNS)** is a group network of researchers coming from four institutions--Peking University, Fudan University, the Institute of Philosophy in the Chinese Academy of Sciences, and Macquarie University. SAPoLNS's purpose is to introduce the most important recent developments in the philosophy of life sciences to graduate students and young scholars, and to promote research and educational cooperation between Chinese and international philosophers of science.
   
   # - block: collection
   #   content:
