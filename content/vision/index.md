@@ -51,7 +51,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: Contact us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
