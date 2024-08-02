@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        SAPoLSNSino-Australian Philosophy of Life Sciences Network
+        Sino-Australian Philosophy of Life Sciences Network
       image:
         filename: SAPoLSNlogo.png
       text: |
