@@ -29,7 +29,7 @@ sections:
           position: right
           color: '#666'
       - title: What we do
-        content: The SAPoLNS is organised around two yearly activities: A summer school organised in turn by Macquarie, Peking or Fudan, and a workshop organised by CASIP.
+        content: The SAPoLNS is organised around two yearly activities -- A summer school organised in turn by Macquarie, Peking or Fudan, and a workshop organised by CASIP.
         align: left
         background:
           image:
