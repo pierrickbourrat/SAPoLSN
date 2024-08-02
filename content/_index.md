@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **SAPoLNS** is a network of researchers coming from four institutions--Peking University, Fudan University, the Institute of Philosophy in the Chinese Academy of Sciences, and Macquarie University. Its goal is to develop strong and longlasting collaboration between researchers intersted in philosophy of life sciences, recognizing the bourgeonning interest of a young generation of researcers working in China in the western style of doing philosophy of science, more particularly philosophy of biology and philosophy of cognitive sciences.
+        The **SAPoLNS** is a network of researchers coming from four institutions--Peking University, Fudan University, the Institute of Philosophy in the Chinese Academy of Sciences, and Macquarie University. Its purpose is to introduce the most important recent developments in the philosophy of life sciences to graduate students and young scholars, and to promote research and educational cooperation between Chinese and international philosophers of science.
   
   - block: collection
     content:

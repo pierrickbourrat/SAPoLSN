@@ -1,5 +1,5 @@
 ---
-title: SAPoLSN's Inaugural workshop
+title: 2O24 Workshop
 
 event: 2024 Workshop
 event_url: 
@@ -12,7 +12,7 @@ location: Insitute of Philosophy, Chinese Academy of Sciences, Beijing
 #  postcode: '94305'
 #  country: United States
 
-#summary: An example event.
+summary: Evolution and Development--From Life to Mind
 #abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
