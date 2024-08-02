@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Origins
-        content: \**SAPoLSN** was established in 2023 by Pierrick Bourrat and Qiaoying Lu. Soon after, Mingjun Zhang and Tung-Ying Wu joined the innitiative. SAPoLNS was developed under the guidance of Professor Chuang Liu (Fudan University/CASIP) and Emeritus Professor Paul Griffiths.
+        content: **SAPoLSN** was established in 2023 by Pierrick Bourrat and Qiaoying Lu. Soon after, Mingjun Zhang and Tung-Ying Wu joined the innitiative. SAPoLNS was developed under the guidance of Professor Chuang Liu (Fudan University/CASIP) and Emeritus Professor Paul Griffiths.
         align: center
         background:
           image:
