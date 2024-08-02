@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Founders
+  - Founding Members
 ---
 Pierrick is a Senior Lecturer and DECRA Fellow at Macquarie University, Sydney, Australia. He specialises in philosophy of biology. Together with Paul Griffiths, he head the [Theory and Method in Biosciences](https://tmbiosci.org/) group.
 

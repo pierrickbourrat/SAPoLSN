@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Founders
+  - Founding Members
 ---
 After working as a legal practitioner for several years, Tung-Ying decided to pursue philosophy for his interest in philosophical significance. He earned a master of arts degree in philosophy from University of Missouri-St. Louis, and received a doctorate from University of Missouri-Columbia on the topic of decision theory and causal reasoning. Before working full-time as an assistant professor at the Institute of Philosophy, Chinese Academy of Sciences (CASIP) in Beijing, he was a postdoctoral researcher at Fudan University in Shanghai, where he began his exploration of the philosophy of causality and causal modeling.

@@ -60,6 +60,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Founders
+  - Mentors
 ---
 Born in Chongqing in 1958; moved to Shanghai in 1970; Bachelor of Physics, East China Normal University (1977-1982); went to the United States to study in 1984 and returned to Shanghai to teach in 2017. PhD in History and Philosophy of Science, University of Pittsburgh (1991); Assistant Professor (1992-1997), Associate Professor (1997-2005), Professor (2005-2017) of the Department of Philosophy, University of Florida; Distinguished Professor of Fudan University (2017-present). Won the first prize of the 8th Humanities and Social Sciences Award of the Ministry of Education (2020).

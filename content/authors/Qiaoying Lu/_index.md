@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Founders
+  - Founding Members
 ---
 
 Qiaoying is an Assistant Professor in the Department of Philosophy at Peking University. She serves as the vice secretary-general and one of the managing directors of the Philosophy of Biology Committee of the Chinese Association for Dialectics of Nature. Qiaoying’s research interests lie in the philosophy of biology and the general philosophy of science. Her primary work includes laying the theoretical foundations for the extended gene-centered framework and applying structural causal models to analyze the causality of genes. She has also engaged in discussions concerning the units of natural selection, the revival of Lamarckism, gene editing, and minimal cognition.
