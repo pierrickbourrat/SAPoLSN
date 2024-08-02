@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: What we do
+      - title: What We Do
         content: The SAPoLNS is organised around two yearly activities -- A summer school organised in turn by Macquarie, Peking and Fudan, and a workshop organised by CASIP.
         align: left
         background:
@@ -38,7 +38,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: The future
+      - title: The Future
         content: We aim to mentor a new generation of researchers in philosophy of life sciences and foster collaboration between philosophers working in China and Australia.
         align: right
         background:
