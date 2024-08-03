@@ -61,4 +61,4 @@ sections:
 
 [Download Program 2023](https://tmbiosci.org/wp-content/uploads/SAPoLSN-Program-2023.pdf)
 
-![My local image](./media/Workshop2023Group.jpg)
+![[Workshop2023Group.jpg]]
