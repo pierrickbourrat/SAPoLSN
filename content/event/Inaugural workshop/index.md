@@ -53,12 +53,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-sections:
-  - block: hero
-    content:
-      text: Speakers from The University of Sydney, Macquarie University, Peking University, Fudan University, Shanzi University, Chinese Academy of Sciences (CASIP), the Australian National University, and the University of Wollongong.
+Speakers from The University of Sydney, Macquarie University, Peking University, Fudan University, Shanzi University, Chinese Academy of Sciences (CASIP), the Australian National University, and the University of Wollongong.
 [Theory and Method in Biosciences](https://tmbiosci.org/) staff have collaborated with or mentored individuals at several Chinese institutions represented at the inaugural workshop. The Network is the next stage in developing these strong and longstanding links.
 
 [Download Program 2023](https://tmbiosci.org/wp-content/uploads/SAPoLSN-Program-2023.pdf)
 
-![[Workshop2023Group.jpg]]
+![Group photo](workshop2023Group.jpg)
