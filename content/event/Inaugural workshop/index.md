@@ -3,7 +3,7 @@ title: SAPoLSN's Inaugural workshop
 event: SAPoLSN's Inaugural workshop
 event_url: 
 location: Manly Pacific Hotel, Sydney
-date: 2023-11-23T0845:00:00Z
+date: 2023-11-23T08:45:00Z
 date_end: 2023-11-24T17:00:00Z
 all_day: false
 publishDate: 2023-01-01T00:00:00Z
