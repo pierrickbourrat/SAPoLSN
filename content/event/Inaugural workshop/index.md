@@ -60,4 +60,5 @@ sections:
 [Theory and Method in Biosciences](https://tmbiosci.org/) staff have collaborated with or mentored individuals at several Chinese institutions represented at the inaugural workshop. The Network is the next stage in developing these strong and longstanding links.
 
 [Download Program 2023](https://tmbiosci.org/wp-content/uploads/SAPoLSN-Program-2023.pdf)
-        image: filename: Workshop2023Group.jpg
+
+![My local image](./media/Workshop2023Group.jpg)
