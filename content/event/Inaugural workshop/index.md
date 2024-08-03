@@ -58,4 +58,4 @@ Speakers from The University of Sydney, Macquarie University, Peking University,
 
 [Download Program 2023](https://tmbiosci.org/wp-content/uploads/SAPoLSN-Program-2023.pdf)
 
-![Group photo](workshop2023Group.jpg)
+![Group photo](workshop2023Group.jpg “participant to the workshop”)
