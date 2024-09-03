@@ -8,7 +8,7 @@ last_name: Lu
 
 # Username (this should match the folder name)
 authors:
-  - Qiaying Lu
+  - Qiaoying Lu
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,16 +25,19 @@ organizations:
 bio: 
 
 interests:
-  - Philosophy of biology
-  - Genetic causation
-  - Extended evolutionary synthesis
+  - Evolutionary Theory
+  - Genetic Causation
+  - Minimal Cognition
   
 
 education:
   courses:
-    - course: PhD in Philosophy
+    - course: PhD in Philosophy of Science
       institution: Sun-Yat Sen University
-      year: 2018
+      year: 2016
+      Bachelor of Science in Biotechnology
+      institution: Jinan University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,4 +68,6 @@ user_groups:
   - Founding Members
 ---
 
-Qiaoying is an Assistant Professor in the Department of Philosophy at Peking University. She serves as the vice secretary-general and one of the managing directors of the Philosophy of Biology Committee of the Chinese Association for Dialectics of Nature. Qiaoying’s research interests lie in the philosophy of biology and the general philosophy of science. Her primary work includes laying the theoretical foundations for the extended gene-centered framework and applying structural causal models to analyze the causality of genes. She has also engaged in discussions concerning the units of natural selection, the revival of Lamarckism, gene editing, and minimal cognition.
+Qiaoying Lu is an Assistant Professor in the Department of Philosophy at Peking University, and a fellow of 2020-2021 Berggruen Institute. 
+Lu's primary research lies in the philosophy of biology and general philosophy of science. Her major work include laying the theoretical foundations for the extended gene-centered framework and applying structural causal models to analyze the causality of genes. 
+Furthermore, she has delved into discussions concerning the units of natural selection, the revival of Lamarckism, gene editing, and minimal cognition. Her research findings have been published in prominent domestic and international journals.
