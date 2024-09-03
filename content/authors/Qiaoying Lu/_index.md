@@ -35,7 +35,7 @@ education:
     - course: PhD in Philosophy of Science
       institution: Sun-Yat Sen University
       year: 2016
-      Bachelor of Science in Biotechnology
+    - course: Bachelor of Science in Biotechnology
       institution: Jinan University
       year: 2010
 
