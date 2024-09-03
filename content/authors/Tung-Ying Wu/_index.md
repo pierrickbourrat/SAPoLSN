@@ -10,18 +10,20 @@ last_name: Wu
 superuser: false
 
 # Role/position
-role: Philosopher of causation
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Philosophy, Chinese Academy of Sciences (CASIP)
+  - name: The Institute of Philosophy of the Chinese Academy of Sciences, CASIP
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Tung-Ying's research...
 
 interests:
-  - 
+  - Causal Modeling
+  - Decision Theory
+  - Free Energy Principle
 
 # Education to show in About widget
 education:
@@ -38,16 +40,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'tungyingwu@outlook.com'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://philpeople.org/profiles/tung-ying-wu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +61,4 @@ highlight_name: false
 user_groups:
   - Founding Members
 ---
-After working as a legal practitioner for several years, Tung-Ying decided to pursue philosophy for his interest in philosophical significance. He earned a master of arts degree in philosophy from University of Missouri-St. Louis, and received a doctorate from University of Missouri-Columbia on the topic of decision theory and causal reasoning. Before working full-time as an assistant professor at the Institute of Philosophy, Chinese Academy of Sciences (CASIP) in Beijing, he was a postdoctoral researcher at Fudan University in Shanghai, where he began his exploration of the philosophy of causality and causal modeling.
+After working as a legal practitioner for several years, I decided to pursue philosophy for my interest in philosophical significance. I earned a master of arts degree in philosophy from University of Missouri-St. Louis, and received a doctorate from University of Missouri-Columbia on the topic of decision theory and causal reasoning. Before working full-time as an assistant professor at the Institute of Philosophy, Chinese Academy of Sciences (CASIP) in Beijing, I was a postdoctoral researcher at Fudan University in Shanghai, where I began my exploration of the philosophy of causality and causal modeling.

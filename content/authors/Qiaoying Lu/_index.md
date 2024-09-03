@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Philosopher of Biology
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -25,6 +25,7 @@ organizations:
 bio: 
 
 interests:
+  - Philosophy of biology
   - Evolutionary Theory
   - Genetic Causation
   - Minimal Cognition
