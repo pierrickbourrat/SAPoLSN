@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Philosopher of Biology
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,12 @@ organizations:
 bio: Mingjun's research...
 
 interests:
-  - 
+  - Philosophy of Biology
+  - Evolutionary Game Theory
+  - Adaptationism
+  - Natural Selection
+  - Modeling in Biology
+  - Cultural Evolution
 
 # Education to show in About widget
 education:
@@ -29,6 +34,12 @@ education:
     - course: PhD in Philosophy
       institution: University of Pennsylvania
       year: 2021
+    - course: MA in Philosophy
+      institution: Tsinghua University
+      year: 2015
+    - course: BSc in Chemistry
+      institution: Tsinghua University
+      year: 2013
 
 
 # Social/Academic Networking
@@ -38,16 +49,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mingjunzhang@fudan.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=en&user=smn8fvkAAAAJ
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +71,10 @@ highlight_name: false
 user_groups:
   - Founding Members
 ---
-Mingjun is a philosopher of biology
+Mingjun ZHANG is an assistant professor in the Department of Philosophy of Science and Logic, School of Philosophy, Fudan University. 
+
+He obtained his Ph.D. from the University of Pennsylvania under the supervision of Michael Weisberg, and was trained as a philosopher of biology. 
+
+His recent work concerns philosophical issues in evolutionary game theory and a wide range of topics in the philosophy of biology, including debates about adaptationism, the nature of natural selection, as well as modeling and explanations in biology.  
+
+He has published several articles in esteemed journals of philosophy of science, including Biology & Philosophy, Studies in History and Philosophy of Science, and Public Understanding of Science.
