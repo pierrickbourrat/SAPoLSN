@@ -10,7 +10,7 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Philosopher of Science with a speciality in physics
+role: Distinguished Professor
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,18 @@ organizations:
 bio: Chuang...
 
 interests:
-  
+  - Philosophy of Intelligence
+  - Scientific Methodology
+  - Philosophy of Physics
+  - Perception
+  - Naïve realism
 
 # Education to show in About widget
 education:
   courses:
-   
+    - course: PhD in Philosophy
+      institution: University of Pittsburgh
+      year: 1991
 
 
 # Social/Academic Networking
@@ -37,16 +43,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'logics@ufl.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=zh-CN&user=8ZiUzUMAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +64,4 @@ highlight_name: true
 user_groups:
   - Mentors
 ---
-Born in Chongqing in 1958; moved to Shanghai in 1970; Bachelor of Physics, East China Normal University (1977-1982); went to the United States to study in 1984 and returned to Shanghai to teach in 2017. PhD in History and Philosophy of Science, University of Pittsburgh (1991); Assistant Professor (1992-1997), Associate Professor (1997-2005), Professor (2005-2017) of the Department of Philosophy, University of Florida; Distinguished Professor of Fudan University (2017-present). Won the first prize of the 8th Humanities and Social Sciences Award of the Ministry of Education (2020).
+Chuang Liu, a distinguished professor in the School of Philosophy at Fudan University, Shanghai; chair of the department of philosophy of science and logic, the director of the Center for the Philosophy and Science of Intelligence (Fudan PSI), and the academic director of the Institute of Philosophy, the Chinese Academy of Sciences (CASIP).   Chuang Liu is professor emeritus in the Department of Philosophy at the University of Florida and twice recipient of the NSF fellowship awards.  He has been a Chang Jiang Scholar (2007-2010) at Tsinghua University and awarded the first prize for academic achievements by the Ministry of Education of China.  Chuang Liu works in philosophy of physics, scientific methodology, and philosophy of intelligence and has published widely among the top journals in philosophy of science. 
