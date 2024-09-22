@@ -27,6 +27,8 @@ interests:
   - Philosophy of Physics
   - Perception
   - Naïve realism
+  - Evolutionary Origin of Intelligence
+  - Evolutionary Origin of Knowledge
 
 # Education to show in About widget
 education:
