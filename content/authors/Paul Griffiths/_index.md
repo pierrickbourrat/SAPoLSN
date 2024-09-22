@@ -10,7 +10,7 @@ last_name: Griffiths
 superuser: false
 
 # Role/position
-role: Philosopher of Biology
+role: Emeritus Professor
 
 # Organizations/Affiliations
 organizations:
@@ -20,13 +20,25 @@ organizations:
 bio: Chuang...
 
 interests:
-  - 
+  - Philosophy of Science
+  - Philosophy of Biology
+  - Philosophy of Medicine
+  - Philosophy and History of Genetics
+  - Philosophy and History of Animal Behaviour
+  - Developmental Systems Theory
+  - Biological Classification
 
 # Education to show in About widget
 education:
   courses:
-    
-
+    - course: PhD
+      institution: Australian National University
+      year: 1989
+    - course: 
+      institution:BA Hons
+      institution: Trinity Hall, University of Cambridge
+      year: 1984
+      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -35,16 +47,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'paul.griffiths@sydney.edu.au'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.nl/citations?user=F-BUztYAAAAJ&hl=en
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +69,8 @@ highlight_name: false
 user_groups:
   - Mentors
 ---
-Born in Chongqing in 1958; moved to Shanghai in 1970; Bachelor of Physics, East China Normal University (1977-1982); went to the United States to study in 1984 and returned to Shanghai to teach in 2017. PhD in History and Philosophy of Science, University of Pittsburgh (1991); Assistant Professor (1992-1997), Associate Professor (1997-2005), Professor (2005-2017) of the Department of Philosophy, University of Florida; Distinguished Professor of Fudan University (2017-present). Won the first prize of the 8th Humanities and Social Sciences Award of the Ministry of Education (2020).
+Emeritus Professor Paul Griffiths was formerly Challis Professor of Philosophy at the University of Sydney. He is a Fellow of the Australian Academy of the Humanities, the American Association for the Advancement of Science, and the Royal Society of NSW, and was awarded the RSNSW Medal for History and Philosophy of Science in 2019. 
+
+He has been both a Laureate Fellow (2018) and a Federation Fellow (2007) of the Australian Research Council, each at the time the highest level of award available to an individual researcher in Australia.
+
+Trained in philosophy of science at University of Cambridge and Australian National University, he specializes in assembling multi-disciplinary teams of philosophers and STEM researchers to address conceptual and theoretical questions in the life sciences. He played a substantial role in the establishment of the Charles Perkins Centre, the first and largest of Sydney’s multi-disciplinary institutes (MDIs) and was a member of its Executive from 2012-23.
