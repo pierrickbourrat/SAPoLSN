@@ -34,8 +34,7 @@ education:
     - course: PhD
       institution: Australian National University
       year: 1989
-    - course: 
-      institution:BA Hons
+    - course: BA Hons
       institution: Trinity Hall, University of Cambridge
       year: 1984
       
