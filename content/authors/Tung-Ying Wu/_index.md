@@ -24,6 +24,9 @@ interests:
   - Causal Modeling
   - Decision Theory
   - Free Energy Principle
+  - Philosophy of Science
+  - Philosophy of Mind and Cognitive Science
+  - Formal Epistemology
 
 # Education to show in About widget
 education:
