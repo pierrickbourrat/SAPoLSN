@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the various concepts deployed in evolutionary theory, causation, and the interplay between biological and cultural evolution.
+bio: 
 
 interests:
   - Evolutionary Developmental Biology (Evo-devo)
