@@ -70,4 +70,7 @@ highlight_name: false
 user_groups:
   - Advisory
 ---
-Alan Love is
+
+Alan Love is a professor at the University of Minnesota, specializing in Evolutionary Developmental Biology (Evo-devo), Developmental Biology, Molecular Biology, and Paleontology.
+
+His research explores the intersection of biology, history, and philosophy, examining how concepts in developmental and evolutionary biology shape scientific understanding.
