@@ -14,6 +14,7 @@ sections:
           - Founding Members
           - Mentors
           - Members
+          - Advisory
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
