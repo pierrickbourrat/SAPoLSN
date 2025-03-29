@@ -14,7 +14,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: the University of Minnesota
+  - name: University of Minnesota
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
