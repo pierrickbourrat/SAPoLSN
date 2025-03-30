@@ -23,7 +23,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: workshop.jpg
             filters:
               brightness: 0.7
           position: right
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: workshop.jpg
+            filename: contact.jpg
             filters:
               brightness: 0.7
           position: center
