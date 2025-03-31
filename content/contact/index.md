@@ -41,7 +41,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: welcome.jpg
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
