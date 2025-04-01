@@ -60,3 +60,11 @@ In addition to traditional lectures, this summer school will involve diverse act
 **Main Instructors**
 - Alan Love (University of Minnesota)
 - Ingo Brigandt (University of Alberta)
+
+![Group photo](groupphoto2024.jpg)
+![presentation1](presentation1.jpg)
+![presentation2](presentation2.jpg)
+![classroom1](classroom1.jpg)
+![classroom2](classroom2.jpg)
+![classroom3](classroom3.jpg)
+![dinner](dinner.jpg)
