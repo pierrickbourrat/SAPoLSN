@@ -59,4 +59,4 @@ The study of the evolution of development (“evo-devo”) has been fruitful for
 ![Classroom2](classroom2.jpg)
 ![classroom3](classroom3.jpg)
 ![classroom4](classroom4.jpg)
-![Coffee Break](coffee break.jpg)
+![coffee break](coffeebreak.jpg)
