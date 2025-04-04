@@ -56,8 +56,10 @@ projects:
 **Time**
 August 10th-16th, 2025 (check in on August 10th)
 
+
 **Location** 
 Fudan University, Shanghai, China
+
 
 **Organizers**
 - Sino-Australian Philosophy of Life Sciences Network (SAPoLSN)
@@ -66,9 +68,11 @@ Fudan University, Shanghai, China
 - Department of Philosophy at Macquarie University
 - Institute of Philosophy at the Chinese Academy of Sciences (CASIP)
 
+
 **Main Instructors**
 - Marta Halina (Department of History and Philosophy of Science, University of Cambridge, UK)
 - Susana Monsó (Department of Logic, History, and Philosophy of Science of UNED, Madrid, Spain)
+
 
 **Other Instructors**
 - Alan Love (University of Minnesota, US)
@@ -76,6 +80,7 @@ Fudan University, Shanghai, China
 - Matthew Sims (University of Cambridge, UK)
 - Miguel Segundo-Ortín (University of Murcia, Spain)
 - And more …
+
 
 This summer school is a yearly event jointly sponsored and organized by the Sino-Australian Philosophy of Life Sciences Network (SAPoLSN), which was initiated by the School of Philosophy at Fudan University, the Department of Philosophy at Peking University, the Department of Philosophy at Macquarie University in Australia, and the Institute of Philosophy at the Chinese Academy of Sciences (CASIP). Its purpose is to introduce the most important recent developments in the philosophy of life sciences to graduate students and young scholars, and to promote research and educational cooperation between Chinese and international philosophers of science. The inaugural SAPoLSN Summer School was successfully held at Peking University in Beijing, 2024. 
 
@@ -85,8 +90,10 @@ Though humans have historically been regarded as the only species with sophistic
 
 In addition to traditional lectures, this summer school will involve diverse activity formats, including but not limited to interviews with invited scholars, academic development panels, brainstorming sessions (e.g., for identifying PhD thesis topics), group presentations, organized dinners, and (fun!) excursions. Students will have the opportunity to interact with and learn from world-famous philosophers in person, as well as to communicate and cooperate with their peers in depth. Following the summer school, Peking University will host an international workshop on the same theme from August 18th–19th in Beijing, where students are warmly encouraged to participate.
 
+
 **Registration**
 Registration is required for all students who want to participate in the summer school. However, registration does not guarantee enrollment in this summer school. Due to limited capacity, we will select participants based on their registration information. There is no registration fee. We can provide free shared accommodations (hotel rooms with two separate beds) for students in need, and other expenses will be the responsibility of the participants.
+
 
 **Requirements**
 1. This summer school will be conducted entirely in English. Participants should ensure that they have a good level of English proficiency.
@@ -96,8 +103,10 @@ Registration is required for all students who want to participate in the summer 
 **Deadline for registration**
 May 5th, 2025 (Beijing time)
 
+
 **Registration link**
 https://www.wjx.top/vm/YbkWugM.aspx#
+
 
 **Contact**
 For further information about the summer school, please contact:
