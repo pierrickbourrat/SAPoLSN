@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Advisory
+  - Advisors
 ---
 
 Ingo Brigandt's research in the philosophy of biology and related domains seeks to understand scientific practice and concept use from methodological, epistemological, and semantic perspectives. His work examines the change and diversity of scientific practices and critically analyzes the intersection of science and society in relation to environmental and social values.

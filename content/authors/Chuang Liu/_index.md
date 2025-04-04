@@ -64,6 +64,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Mentors
+  - Advisors
 ---
 Chuang Liu, a distinguished professor in the School of Philosophy at Fudan University, Shanghai; chair of the department of philosophy of science and logic, the director of the Center for the Philosophy and Science of Intelligence (Fudan PSI), and the academic director of the Institute of Philosophy, the Chinese Academy of Sciences (CASIP).   Chuang Liu is professor emeritus in the Department of Philosophy at the University of Florida and twice recipient of the NSF fellowship awards.  He has been a Chang Jiang Scholar (2007-2010) at Tsinghua University and awarded the first prize for academic achievements by the Ministry of Education of China.  Chuang Liu works in philosophy of physics, scientific methodology, and philosophy of intelligence and has published widely among the top journals in philosophy of science. 

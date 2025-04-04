@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Mentors
+  - Advisors
 ---
 Emeritus Professor Paul Griffiths was formerly Challis Professor of Philosophy at the University of Sydney. He is a Fellow of the Australian Academy of the Humanities, the American Association for the Advancement of Science, and the Royal Society of NSW, and was awarded the RSNSW Medal for History and Philosophy of Science in 2019. 
 
