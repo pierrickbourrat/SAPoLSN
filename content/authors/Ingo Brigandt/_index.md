@@ -75,3 +75,5 @@ user_groups:
 Ingo Brigandt's research in the philosophy of biology and related domains seeks to understand scientific practice and concept use from methodological, epistemological, and semantic perspectives. His work examines the change and diversity of scientific practices and critically analyzes the intersection of science and society in relation to environmental and social values.
 
 He is particularly interested in evolutionary developmental biology (evo-devo), molecular biology, systems biology, cognitive science, and, more recently, neuropsychiatry.
+
+Ingo is also working on conceptual engineering and issues at the intersection of science, values, and society.
