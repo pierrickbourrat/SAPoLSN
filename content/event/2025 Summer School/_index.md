@@ -54,11 +54,11 @@ slides:
 projects:
 ---
 **Time**
-August 10th-16th, 2025 (check in on August 10th)
+- August 10th-16th, 2025 (check in on August 10th)
 
 
 **Location** 
-Fudan University, Shanghai, China
+- Fudan University, Shanghai, China
 
 
 **Organizers**
@@ -100,16 +100,8 @@ Registration is required for all students who want to participate in the summer 
 2. This summer school is open to postgraduate students from around the world.
 3. Participants are required to participate offline for the entire duration of all programs. Additionally, they should ensure that they have a basic understanding of and sufficient interest in the summer school.
 
-**Deadline for registration**
-May 5th, 2025 (Beijing time)
-
-
-**Registration link**
-https://www.wjx.top/vm/YbkWugM.aspx#
-
-
 **Contact**
-For further information about the summer school, please contact:
+- For further information about the summer school, please contact:
 LI Xingyi (李星熠) 
-Email: sapolsn.summerschool@outlook.com
+- Email: sapolsn.summerschool@outlook.com
 
