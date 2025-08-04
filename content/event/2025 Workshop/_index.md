@@ -56,21 +56,21 @@ projects:
 Although humans have long been viewed as uniquely cognitive beings, this assumption has been increasingly challenged. Today, the study of cognition extends across the entire tree of life. In this workshop, we will explore cutting-edge work on cognition beyond humans. Topics include the psychological capacities of nonhuman animals, the potential cognitive status of non-animal organisms like plants and slime moulds as well as new conceptual and methodological approaches to cognition. Here, we hope to provide an opportunity for open exchange among philosophers of biology, philosophy of mind, cognitive science, and related disciplines, with the aim of deepening our understanding of cognition in its diverse forms.
 
 **Speakers**
--Alan Love (University of Minnesota, US)
--Chuang Liu (Fudan University, China)
--Jianqiao Ge (Peking University, China)
--Luke Kersten (University of Alberta, Canada)
--Marta Halina (University of Cambridge, UK)
--Matthew Sims (University of Cambridge, UK)
--Miguel Segundo-Ortín (University of Murcia, Spain)
--Russell Meyer (Institute of Philosophy at the Chinese Academy of Sciences, China)
--Susana Monsó (National University of Distance Education, Spain)
--Xiaotao Liu (Shanghai University, China)
--Xitong Liang (Peking University, China)
--And more …
+- Alan Love (University of Minnesota, US)
+- Chuang Liu (Fudan University, China)
+- Jianqiao Ge (Peking University, China)
+- Luke Kersten (University of Alberta, Canada)
+- Marta Halina (University of Cambridge, UK)
+- Matthew Sims (University of Cambridge, UK)
+- Miguel Segundo-Ortín (University of Murcia, Spain)
+- Russell Meyer (Institute of Philosophy at the Chinese Academy of Sciences, China)
+- Susana Monsó (National University of Distance Education, Spain)
+- Xiaotao Liu (Shanghai University, China)
+- Xitong Liang (Peking University, China)
+- And more …
 
 **Registration link**
-https://www.wjx.cn/vm/YDotUXJ.aspx#
+- https://www.wjx.cn/vm/YDotUXJ.aspx#
 
 **Contact**
-For further information about the workshop, please contact: Tianyang LU sapolsnworkshop@foxmail.com
+- For further information about the workshop, please contact: Tianyang LU sapolsnworkshop@foxmail.com
