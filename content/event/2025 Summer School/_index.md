@@ -54,11 +54,13 @@ slides:
 projects:
 ---
 **Time**
-- August 10th-16th, 2025 (check in on August 10th)
+
+August 10th-16th, 2025 (check in on August 10th)
 
 
 **Location** 
-- Fudan University, Shanghai, China
+
+Fudan University, Shanghai, China
 
 
 **Organizers**
