@@ -74,5 +74,3 @@ https://www.wjx.cn/vm/YDotUXJ.aspx#
 
 **Contact**
 For further information about the workshop, please contact: Tianyang LU sapolsnworkshop@foxmail.com
-
-![Poster](Poster.png)
