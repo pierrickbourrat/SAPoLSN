@@ -73,4 +73,5 @@ Although humans have long been viewed as uniquely cognitive beings, this assumpt
 - https://www.wjx.cn/vm/YDotUXJ.aspx#
 
 **Contact**
-- For further information about the workshop, please contact: Tianyang LU sapolsnworkshop@foxmail.com
+- For further information about the workshop, please contact: Tianyang LU 
+- Email: sapolsnworkshop@foxmail.com
