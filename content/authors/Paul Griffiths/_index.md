@@ -50,7 +50,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.nl/citations?user=F-BUztYAAAAJ&hl=en
-  - icon: hero/globe-alt
+  - icon: house
+    icon_pack: fas
     link: https://tmbiosci.org/person/?personId=90
     
 # Link to a PDF of your resume/CV from the About widget.
