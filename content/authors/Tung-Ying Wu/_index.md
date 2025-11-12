@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tungyingwu@outlook.com'
+    link: 'mailto:tungyingwu@outlook.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://philpeople.org/profiles/tung-ying-wu
@@ -62,6 +62,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Founding Members
+  - 
 ---
 After working as a legal practitioner for several years, I decided to pursue philosophy for my interest in philosophical significance. I earned a master of arts degree in philosophy from University of Missouri-St. Louis, and received a doctorate from University of Missouri-Columbia on the topic of decision theory and causal reasoning. Before working full-time as an assistant professor at the Institute of Philosophy, Chinese Academy of Sciences (CASIP) in Beijing, I was a postdoctoral researcher at Fudan University in Shanghai, where I began my exploration of the philosophy of causality and causal modeling.

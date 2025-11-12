@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Origins
-        content: SAPoLSN was established in 2023 by Pierrick Bourrat and Qiaoying Lu. Soon after, Mingjun Zhang and Tung-Ying Wu joined the innitiative. SAPoLSN was developed under the guidance of Professor Chuang Liu (Fudan University/CASIP) and Emeritus Professor Paul Griffiths.
+        content: SAPoLSN was established in 2023 by Pierrick Bourrat and Qiaoying Lu. Soon after, Mingjun Zhang joined the innitiative. SAPoLSN was developed under the guidance of Professor Chuang Liu (Fudan University/CASIP) and Emeritus Professor Paul Griffiths.
         align: center
         background:
           image:
@@ -29,7 +29,7 @@ sections:
           position: right
           color: '#666'
       - title: What We Do
-        content: The SAPoLSN is organised around two yearly activities -- A summer school organised in turn by Macquarie, Peking and Fudan, and a workshop organised by CASIP.
+        content: The SAPoLSN is organised around two yearly activities -- A summer school and a workshop organised in turn by Macquarie, Peking and Fudan.
         align: left
         background:
           image:
@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#555'
       - title: The Future
-        content: We aim to mentor a new generation of researchers in philosophy of life sciences and foster collaboration between philosophers working in China and Australia.
+        content: We aim to mentor a new generation of researchers in philosophy of life sciences and foster collaboration between philosophers and philosophically-oriented scientists.
         align: right
         background:
           image:

@@ -38,10 +38,7 @@ education:
       year: 2005
     - course: M.Sc. equivalent in Mathematics
       institution: University of Konstanz
-      year: 2002
-    - course: BS in Biology
-      institution: Massachusetts Institute of Technology
-      year: 1995
+      year: 2002      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'brigandt@ualberta.ca'
+    link: 'mailto:brigandt@ualberta.ca'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=K6HzPcwAAAAJ&hl=zh-CN&oi=sra

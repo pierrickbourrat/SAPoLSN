@@ -10,6 +10,9 @@ main:
  # - name: News
     # url: post
     # weight: 20
+  - name: Organisation
+    url: organisation
+    weight: 25
   - name: People
     url: people
     weight: 30

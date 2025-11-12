@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mingjunzhang@fudan.edu.cn'
+    link: 'mailto:mingjunzhang@fudan.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=smn8fvkAAAAJ

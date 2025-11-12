@@ -10,7 +10,7 @@ last_name: Bourrat
 superuser: true
 
 # Role/position
-role: Senior Lecturer & DECRA Fellow
+role: Senior Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -50,8 +50,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'pierrick.bourrat@mq.edu.au'
-  - icon: twitter
+    link: 'mailto:pierrick.bourrat@mq.edu.au'
+  - icon: x
     icon_pack: fab
     link: https://x.com/pierrickbourrat
   - icon: google-scholar

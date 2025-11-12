@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'aclove@umn.edu'
+    link: 'mailto:aclove@umn.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=iZaly7QAAAAJ&hl=zh-CN&oi=sra

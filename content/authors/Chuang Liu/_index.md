@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Philosophy
+    - course: PhD in History and Philosophy of Science
       institution: University of Pittsburgh
       year: 1991
 
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'logics@ufl.edu'
+    link: 'mailto:logics@ufl.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=8ZiUzUMAAAAJ
