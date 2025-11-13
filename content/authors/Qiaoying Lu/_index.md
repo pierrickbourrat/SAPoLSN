@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -64,6 +64,6 @@ user_groups:
   - Founding Members
 ---
 
-Qiaoying Lu is an Assistant Professor in the Department of Philosophy at Peking University, and a fellow of 2020-2021 Berggruen Institute. 
+Qiaoying Lu is an Associate Professor in the Department of Philosophy at Peking University, and a fellow of 2020-2021 Berggruen Institute. 
 Lu's primary research lies in the philosophy of biology and general philosophy of science. Her major work include laying the theoretical foundations for the extended gene-centered framework and applying structural causal models to analyze the causality of genes. 
 Furthermore, she has delved into discussions concerning the units of natural selection, the revival of Lamarckism, gene editing, and minimal cognition. Her research findings have been published in prominent domestic and international journals.
