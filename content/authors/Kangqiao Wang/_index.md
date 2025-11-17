@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student Ambassador
+  - Student Ambassadors
 ---
 I am a PhD candidate in the Discipline of Philosophy, School of Humanities, Macquarie University, Sydney, Australia. I serve as the student assistant for the Theory and Method in Biosciences group.
 
