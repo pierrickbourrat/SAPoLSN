@@ -67,11 +67,6 @@ Although humans have long been viewed as uniquely cognitive beings, this assumpt
 - Susana Monsó (National University of Distance Education, Spain)
 - Xiaotao Liu (Shanghai University, China)
 - Xitong Liang (Peking University, China)
-- And more …
 
-**Registration link**
-- https://www.wjx.cn/vm/YDotUXJ.aspx#
 
-**Contact**
-- For further information about the workshop, please contact: Tianyang LU 
-- Email: sapolsnworkshop@foxmail.com
+

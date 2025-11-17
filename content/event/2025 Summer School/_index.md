@@ -81,7 +81,6 @@ Fudan University, Shanghai, China
 - Luke Kersten (University of Alberta, Canada)
 - Matthew Sims (University of Cambridge, UK)
 - Miguel Segundo-Ortín (University of Murcia, Spain)
-- And more …
 
 
 This summer school is a yearly event jointly sponsored and organized by the Sino-Australian Philosophy of Life Sciences Network (SAPoLSN), which was initiated by the School of Philosophy at Fudan University, the Department of Philosophy at Peking University, the Department of Philosophy at Macquarie University in Australia, and the Institute of Philosophy at the Chinese Academy of Sciences (CASIP). Its purpose is to introduce the most important recent developments in the philosophy of life sciences to graduate students and young scholars, and to promote research and educational cooperation between Chinese and international philosophers of science. The inaugural SAPoLSN Summer School was successfully held at Peking University in Beijing, 2024. 
@@ -93,7 +92,7 @@ Though humans have historically been regarded as the only species with sophistic
 In addition to traditional lectures, this summer school will involve diverse activity formats, including but not limited to interviews with invited scholars, academic development panels, brainstorming sessions (e.g., for identifying PhD thesis topics), group presentations, organized dinners, and (fun!) excursions. Students will have the opportunity to interact with and learn from world-famous philosophers in person, as well as to communicate and cooperate with their peers in depth. Following the summer school, Peking University will host an international workshop on the same theme from August 18th–19th in Beijing, where students are warmly encouraged to participate.
 
 
-**Registration**
+**Registration** 
 Registration is required for all students who want to participate in the summer school. However, registration does not guarantee enrollment in this summer school. Due to limited capacity, we will select participants based on their registration information. There is no registration fee. We can provide free shared accommodations (hotel rooms with two separate beds) for students in need, and other expenses will be the responsibility of the participants.
 
 
@@ -102,8 +101,5 @@ Registration is required for all students who want to participate in the summer 
 2. This summer school is open to postgraduate students from around the world.
 3. Participants are required to participate offline for the entire duration of all programs. Additionally, they should ensure that they have a basic understanding of and sufficient interest in the summer school.
 
-**Contact**
-- For further information about the summer school, please contact:
-LI Xingyi (李星熠) 
-- Email: sapolsn.summerschool@outlook.com
+
 
