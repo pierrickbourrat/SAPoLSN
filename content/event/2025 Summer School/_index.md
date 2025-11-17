@@ -101,5 +101,14 @@ Registration is required for all students who want to participate in the summer 
 2. This summer school is open to postgraduate students from around the world.
 3. Participants are required to participate offline for the entire duration of all programs. Additionally, they should ensure that they have a basic understanding of and sufficient interest in the summer school.
 
-
+![Group photo1](1.jpg)
+![Group photo2](2.jpg)
+![Group photo3](3.jpg)
+![Group photo4](4.jpg)
+![classroom5](5.jpg)
+![classroom6](6.jpg)
+![classroom7](7.jpg)
+![classroom8](8.jpg)
+![classroom9](9.jpg)
+![classroom10](10.jpg)
 
