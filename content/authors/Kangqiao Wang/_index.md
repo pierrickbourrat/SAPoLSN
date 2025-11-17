@@ -10,7 +10,7 @@ last_name: Wang
 superuser: true
 
 # Role/position
-role: Ph.D. student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -21,23 +21,23 @@ organizations:
 bio: 
 
 interests:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
+  - Philosophy of Biology
+  - Philosophy of Applied Mathematics
+  - Integrated History and Philosophy of Science
+  - Logical Empiricism
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Philosophy
       institution: Macquarie Univeisity
-      year: 2015
+      year: ongoing
     - course: MA in Philosophy
       institution: Tsinghua University
-      year: 2009
-    - course: MSc in Evolutionary Biology & Ecology
-      institution: The University of Montpellier
+      year: 2024
+    - course: BSc in Philosophy
+      institution: Peking University
+      year: 2020
 
 
 # Social/Academic Networking
@@ -47,16 +47,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
-  - icon: github
-    icon_pack: fab
-    link: 
+    link: 'mailto:kangqiao.wang@students.mq.edu.au'
   - icon: house
     icon_pack: fas
-    link: 
+    link: https://qiaokanggg.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +68,10 @@ highlight_name: false
 user_groups:
   - Student Ambassador
 ---
+I am a PhD candidate in the Discipline of Philosophy, School of Humanities, Macquarie University, Sydney, Australia. I serve as the student assistant for the Theory and Method in Biosciences group.
+
+I am broadly interested in the philosophy of biology, with a particular focus on the application of mathematics. Currently, I am working on mathematical models of social evolution (i.e., the evolution of social behavior). My PhD thesis ‘The inclusive fitness theory, social evolution, and eusociality’ is supervised by Dr. Pierrick Bourrat.
+
+In the long run, I hope to broaden my research beyond evolutionary biology to explore areas such as ecology, systems biology, paleobiology, and other disciplines within the natural sciences.
+
+I identify as a logical empiricist. I believe that the ultimate goal of philosophy is to actively contribute to scientific research. I pursue this by solving scientific controversies at the conceptual, theoretical, and methodological levels.
