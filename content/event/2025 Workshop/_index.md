@@ -68,5 +68,9 @@ Although humans have long been viewed as uniquely cognitive beings, this assumpt
 - Xiaotao Liu (Shanghai University, China)
 - Xitong Liang (Peking University, China)
 
+![Group photo](1.jpg)
+![Classroom2](2.jpg)
+![classroom3](3.jpg)
+![classroom4](4.jpg)
 
 
