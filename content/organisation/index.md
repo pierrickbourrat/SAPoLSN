@@ -13,6 +13,8 @@ sections:
       user_groups:
           - Founding Institutions
           - Partner Institutions
+          - Founding Members
+          - Advisors
           
       sort_by: Params.last_name
       sort_ascending: true
