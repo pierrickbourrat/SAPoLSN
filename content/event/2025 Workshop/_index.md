@@ -59,6 +59,7 @@ Although humans have long been viewed as uniquely cognitive beings, this assumpt
 - Alan Love (University of Minnesota, US)
 - Chuang Liu (Fudan University, China)
 - Jianqiao Ge (Peking University, China)
+- Liqian Zhou (Shanghai Jiao Tong University, China)
 - Luke Kersten (University of Alberta, Canada)
 - Marta Halina (University of Cambridge, UK)
 - Matthew Sims (University of Cambridge, UK)

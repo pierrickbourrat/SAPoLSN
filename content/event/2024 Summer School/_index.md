@@ -61,6 +61,12 @@ In addition to traditional lectures, this summer school will involve diverse act
 - Alan Love (University of Minnesota)
 - Ingo Brigandt (University of Alberta)
 
+**Other Instructors**
+- Carrie Figdor (University of Iowa)
+- Kathryn Nave (University of Edinburgh)
+- Laura Nuño de la Rosa (Complutense University of Madrid)
+- Riin Kõiv (University of Sydney)
+
 ![Group photo](groupphoto2024.jpg)
 ![presentation1](presentation1.jpg)
 ![presentation2](presentation2.jpg)

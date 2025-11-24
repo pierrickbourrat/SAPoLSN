@@ -55,6 +55,22 @@ projects:
 ---
 The study of the evolution of development (“evo-devo”) has been fruitful for scientific and philosophical investigations alike. With an interdisciplinary scope spanning genetics, genomics, embryology, paleontology, among other diverse fields, it has stressed the complexity of the close relationship between developmental and evolutionary processes for diverse traits, from morphology and behavior to cognition. The intermingling of questions about development and evolution, as well as the domain-spanning nature of evo-devo, prompts a variety of conceptual questions.
 
+**Speakers**
+- Andrew Barron (Macquarie University)
+- Ingo Brigandt (University of Alberta)
+- Rachael Brown (Australian National University)
+- Carrie Figdor (University of Iowa)
+- Riin Kõiv (University of Sydney)
+- Alan Love (University of Minnesota)
+- Richard Menary (Macquarie University)
+- Kate Nave (University of Edinburgh)
+- Laura Nuño de la Rosa (Complutense University of Madrid)
+- Emily Parke (University of Auckland)
+- Russell Meyer (Institute of Philosophy at the Chinese Academy of Sciences)
+- Pierrick Bourrat (Macquarie University)
+- Mingjun Zhang (Fudan University)
+- Zhixiang Cheng (Institute of Philosophy ar the Chinese Academy of Sciences)
+
 ![Group photo](classroom1.jpg)
 ![Classroom2](classroom2.jpg)
 ![classroom3](classroom3.jpg)
