@@ -69,7 +69,7 @@ The study of the evolution of development (“evo-devo”) has been fruitful for
 - Russell Meyer (Institute of Philosophy at the Chinese Academy of Sciences)
 - Pierrick Bourrat (Macquarie University)
 - Mingjun Zhang (Fudan University)
-- Zhixiang Cheng (Institute of Philosophy ar the Chinese Academy of Sciences)
+- Zhixiang Cheng (Institute of Philosophy at the Chinese Academy of Sciences)
 
 ![Group photo](classroom1.jpg)
 ![Classroom2](classroom2.jpg)
