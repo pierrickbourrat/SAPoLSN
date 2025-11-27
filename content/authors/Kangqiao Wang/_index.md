@@ -10,7 +10,7 @@ last_name: Wang
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -48,9 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:kangqiao.wang@students.mq.edu.au'
-  # - icon: house
-  #  icon_pack: fas
-  #  link: https://qiaokanggg.github.io/
+  - icon: house
+    icon_pack: fas
+    link: https://qiaokanggg.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
