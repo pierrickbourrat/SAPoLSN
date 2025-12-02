@@ -48,7 +48,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:463804204@qq.com'
-  - icon: wechat
+  - icon: weixin
     icon_pack: fab
     link: https://mp.weixin.qq.com/s/6ur832HZz7wEMPvE-cgSzQ
 # Link to a PDF of your resume/CV from the About widget.

@@ -66,5 +66,7 @@ user_groups:
   - Student Ambassadors
 ---
 I am a PhD candidate in Philosophy at the University of Missouri and a visiting student at the Minnesota Center for Philosophy of Science for the 2025-26 academic year.
+
 My research centers around evolution and its implications in naturalist philosophy. My dissertation examines the concept of proper function through an evolutionary lens. I also investigate methodological questions in evolutionary biology such as simulation models and how-possibly explanations. I take a scientifically informed approach and enjoy collaborating with evolutionary biologists.
+
 I am also interested in the development of artificial intelligence and its influence on science and society.
