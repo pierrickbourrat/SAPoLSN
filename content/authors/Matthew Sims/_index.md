@@ -48,8 +48,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=WNsQwUoAAAAJ&hl=en
-  - icon: b
-    icon_pack: fas
+  - icon: custom/bluesky
     link: https://bsky.app/profile/philosobio.bsky.social
 
 # Link to a PDF of your resume/CV from the About widget.
