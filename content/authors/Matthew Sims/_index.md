@@ -48,7 +48,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=WNsQwUoAAAAJ&hl=en
-  - icon: butterfly
+  - icon: b
     icon_pack: fas
     link: https://bsky.app/profile/philosobio.bsky.social
 
