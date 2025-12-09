@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xyli22@m.fudan.edu.cn'
+    link: 'mailto:xyli22@m.fudan.edu.cn'
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0004-6293-966X
