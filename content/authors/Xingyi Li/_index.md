@@ -22,8 +22,9 @@ bio:
 
 interests:
   - Philosophy of Biology
-  - philosophy of microbiology
+  - Philosophy of Microbiology
   - Causation
+  - Reproduction
 
 # Education to show in About widget
 education:
@@ -64,3 +65,8 @@ highlight_name: false
 user_groups:
   - Student Ambassadors
 ---
+I am currently a Ph.D. candidate in Philosophy of Science and Technology at Fudan University, China.
+
+My research interests lie primarily in the philosophy of biology, with a focus on evolutionary biology, microbiology, and reproduction. I also work on philosophical questions related to causal explanation and causal selection. At present, my research explores causal explanations of complex biological phenomena, particularly interactions.
+
+In the long term, I aim to concentrate on the philosophy of microbiology, addressing issues such as causal explanations in microbial systems and conceptual questions within microbiology—for example, concepts like homeostasis and dysbiosis.
