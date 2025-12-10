@@ -10,31 +10,34 @@ last_name: Segundo Ortín
 superuser: false
 
 # Role/position
-role: 
+role: Ramón y Cajal Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: Universidad de Murcia (Spain)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - 
-  - 
+  - Philosophy of the Cognitive Sciences
+  - Philosophy of Science
+  - Anthropocentrism
+  - Ecological Psychology
+  - Non-neural Organisms
 
 # Education to show in About widget
 education:
   courses:
-    - course: 
-      institution: 
+    - course: Ph.D. in Philosophy
+      institution: University of Wollongong (Australia)
       year: 
-    - course: 
-      institution: 
+    - course: MA in Contemporary Philosophy
+      institution: Universidad de Granada (Spain)
       year: 
-    - course: 
-      institution: 
+    - course: BA in Philosophy
+      institution: Universidad de Murcia (Spain)
       year: 
 
 # Social/Academic Networking
@@ -44,7 +47,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:miguel.segundo.ortin@gmail.com'
+    link: 'mailto:miguel.segundo@um.es'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=mq3WGeYAAAAJ&hl=en
+  - icon: house
+    icon_pack: fas
+    link: https://miguelsegundoortinphd.com/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -65,4 +74,4 @@ user_groups:
   - Instructors
 ---
 
-
+I am a philosopher of the cognitive sciences specializing in embodied and situated theories of cognition, with a particular focus on ecological (neo-Gibsonian) psychology. My research aims to develop a neo-Gibsonian approach to comparative cognition and to investigate how socio-cultural norms shape and structure human agency. I am also interested in the philosophy of comparative psychology, including its scientific problems (the underdetermination of theory by data, the ecological validity of the studies, the influence of anthropo-biases in our theorizing), and current debates on the potential cognitive status of non-neural organisms (e.g., plants and bacteria).
