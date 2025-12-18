@@ -73,5 +73,3 @@ type: page
     </div>
   </div>
 </div>
-
-{{< /rawhtml >}}
