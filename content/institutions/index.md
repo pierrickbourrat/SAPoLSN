@@ -29,7 +29,7 @@ type: page
 }
 .institution-card img {
   max-width: 100%;
-  max-height: 100px; /* 统一高度，保证整齐 */
+  max-height: 100px; /* 统一 Logo 高度，保证整齐排布 */
   object-fit: contain;
 }
 .institution-name {
@@ -42,15 +42,15 @@ type: page
   <div class="institution-title">Founding Institutions</div>
   <div class="institution-grid">
     <div class="institution-card">
-      /images/institutions/fdu.jpg
+      images/institutions/fdu.jpg
       <div class="institution-name">Fudan University</div>
     </div>
     <div class="institution-card">
-      /images/institutions/mq.jpg
+      images/institutions/mq.jpg
       <div class="institution-name">Macquarie University</div>
     </div>
     <div class="institution-card">
-      /images/institutions/pku.jpg
+      images/institutions/pku.jpg
       <div class="institution-name">Peking University</div>
     </div>
   </div>
@@ -60,13 +60,14 @@ type: page
   <div class="institution-title">Partner Entities</div>
   <div class="institution-grid">
     <div class="institution-card">
-      /images/institutions/partner1.jpg
+      images/institutions/partner1.jpg
       <div class="institution-name">Partner 1</div>
     </div>
     <div class="institution-card">
-      /images/institutions/partner2.jpg
+      images/institutions/partner2.jpg
       <div class="institution-name">Partner 2</div>
     </div>
-    <!-- 根据需要继续添加 -->
+    <!-- 继续添加 -->
   </div>
 </div>
+``
