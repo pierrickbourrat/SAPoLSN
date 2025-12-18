@@ -19,7 +19,7 @@ type: page
 
 /* 分组标题：取消加粗，减小字号 */
 .institution-title {
-  font-size: 1.4rem; /* 原来是1.8rem，稍微减小 */
+  font-size: 1.5rem; /* 原来是1.8rem，稍微减小 */
   font-weight: normal; /* 取消加粗 */
   margin-bottom: 1.2rem;
 }
