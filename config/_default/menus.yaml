@@ -10,11 +10,13 @@ main:
  # - name: News
     # url: post
     # weight: 20
+  - name: Institutions
+    url: institutions
   - name: Organisation
     url: organisation
     weight: 25
-  - name: People
-    url: people
+  - name: Network
+    url: network
     weight: 30
   - name: Events
     url: event
