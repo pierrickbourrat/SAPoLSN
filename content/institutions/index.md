@@ -1,3 +1,4 @@
+
 ---
 title: Institutions
 date: 2025-12-18
@@ -9,33 +10,28 @@ type: page
   text-align: center;
   margin-bottom: 3rem;
 }
-
 .institution-title {
   font-size: 1.8rem;
   font-weight: bold;
   margin-bottom: 1rem;
 }
-
 .institution-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 2rem;
 }
-
 .institution-card {
-  width: 180px; /* 控制卡片宽度 */
+  width: 180px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-
 .institution-card img {
   max-width: 100%;
-  max-height: 100px; /* 限制 Logo 高度，保证整齐 */
+  max-height: 100px; /* 统一高度，保证整齐 */
   object-fit: contain;
 }
-
 .institution-name {
   margin-top: 0.5rem;
   font-size: 1rem;
@@ -57,7 +53,7 @@ type: page
       /images/institutions/pku.jpg
       <div class="institution-name">Peking University</div>
     </div>
-   </div>
+  </div>
 </div>
 
 <div class="institution-section">
@@ -73,3 +69,4 @@ type: page
     </div>
     <!-- 根据需要继续添加 -->
   </div>
+</div>
