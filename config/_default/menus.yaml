@@ -12,6 +12,7 @@ main:
     # weight: 20
   - name: Institutions
     url: institutions
+    weight: 22
   - name: Organisation
     url: organisation
     weight: 25
