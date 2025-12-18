@@ -4,8 +4,6 @@ date: 2025-12-18
 type: page
 ---
 
-{{< rawhtml >}}
-
 <style>
 .institution-section {
   text-align: center;
