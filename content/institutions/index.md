@@ -4,16 +4,24 @@ date: 2025-12-18
 type: page
 ---
 
+
 <style>
+/* 页面主标题居中 */
+.article-container h1 {
+  text-align: center;
+}
+
+/* 整个机构部分 */
 .institution-section {
   text-align: center;
   margin-bottom: 3rem;
 }
 
+/* 分组标题：取消加粗，减小字号 */
 .institution-title {
-  font-size: 1.8rem;
-  font-weight: bold;
-  margin-bottom: 1.5rem;
+  font-size: 1.4rem; /* 原来是1.8rem，稍微减小 */
+  font-weight: normal; /* 取消加粗 */
+  margin-bottom: 1.2rem;
 }
 
 .institution-grid {
@@ -27,7 +35,7 @@ type: page
   width: 180px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+   align-items: center;
 }
 
 .institution-card img {
