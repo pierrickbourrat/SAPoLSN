@@ -4,6 +4,8 @@ date: 2025-12-18
 type: page
 ---
 
+{{< rawhtml >}}
+
 <style>
 .institution-section {
   text-align: center;
@@ -45,38 +47,33 @@ type: page
 <div class="institution-section">
   <div class="institution-title">Founding Institutions</div>
   <div class="institution-grid">
-
     <div class="institution-card">
       <img src="/images/institutions/fdu.jpg" alt="Fudan University logo">
       <div class="institution-name">Fudan University</div>
     </div>
-
     <div class="institution-card">
       <img src="/images/institutions/mq.jpg" alt="Macquarie University logo">
       <div class="institution-name">Macquarie University</div>
     </div>
-
     <div class="institution-card">
       <img src="/images/institutions/pku.jpg" alt="Peking University logo">
       <div class="institution-name">Peking University</div>
     </div>
-
   </div>
 </div>
 
 <div class="institution-section">
   <div class="institution-title">Partner Entities</div>
   <div class="institution-grid">
-
     <div class="institution-card">
       <img src="/images/institutions/partner1.jpg" alt="Partner 1 logo">
       <div class="institution-name">Partner 1</div>
     </div>
-
     <div class="institution-card">
       <img src="/images/institutions/partner2.jpg" alt="Partner 2 logo">
       <div class="institution-name">Partner 2</div>
     </div>
-
   </div>
 </div>
+
+{{< /rawhtml >}}
