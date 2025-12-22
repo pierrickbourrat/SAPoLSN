@@ -68,7 +68,7 @@ type: page
   <div class="institution-title">Founding Institutions</div>
   <div class="institution-grid">
     <div class="institution-card">
-      <img src="/images/institutions/fdu.jpg" alt="Fudan University logo">
+      <img src="/images/institutions/fdu.png" alt="Fudan University logo">
       <div class="institution-name">
         <a href="https://www.fudan.edu.cn" target="_blank" rel="noopener">
           Fudan University
@@ -84,7 +84,7 @@ type: page
       </div>
     </div>
     <div class="institution-card">
-      <img src="/images/institutions/pku.jpg" alt="Peking University logo">
+      <img src="/images/institutions/pku.png" alt="Peking University logo">
       <div class="institution-name">
         <a href="https://www.pku.edu.cn" target="_blank" rel="noopener">
           Peking University
