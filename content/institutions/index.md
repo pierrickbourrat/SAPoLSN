@@ -76,7 +76,7 @@ type: page
       </div>
     </div>
     <div class="institution-card">
-      <img src="/images/institutions/mq.jpg" alt="Macquarie University logo">
+      <img src="/images/institutions/mq.png" alt="Macquarie University logo">
       <div class="institution-name">
         <a href="https://www.mq.edu.au" target="_blank" rel="noopener">
           Macquarie University
