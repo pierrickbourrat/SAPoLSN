@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Andrew Barron
+title: Zhixiang Cheng
 
 # Full Name (for SEO)
-first_name: Andrew
-last_name: Barron
+first_name: Zhixiang
+last_name: Cheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: Tsinghua University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Cognitive Evolution
-  - Comparative Neurobiology
-
+  - Philosophy of Biology
+  - Philosophy of Science
+  - Intellectual History of Evolutionary Biology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD, Zoology
-      institution: University of Cambridge
-      year: 
-    - course: BA Natural Sciences
-      institution: University of Cambridge
-      year: 
+    - course: Ph. D. in philosophy
+      institution: University of Toronto
+      year: 2022
 
 
 # Social/Academic Networking
@@ -41,12 +38,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=ah1jBk4AAAAJ&hl=en
-  - icon: house
+  - icon: envelope
     icon_pack: fas
-    link: http://andrewbarron.org/
+    link: 'mailto:chengzhixiang@mail.tsinghua.edu.cn'
+
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -67,4 +62,7 @@ user_groups:
   - Regular Members
 ---
 
-Andrew Barron is Director of The Macquarie University Minds and Intelligences Research Centre. Andrew completed his PhD in Zoology at The University of Cambridge in 1999. His lab at Macquarie University studies honey bee neurobiology, specialising on understanding the incredible intelligence of bees and how sophisticated social behaviour is possible with such a tiny brain. He has held fellowships from the Australian Research Council, the Leverhulme Trust, The Fulbright Commission and The Royal Society of London. 
+Zhixiang Cheng is an Assistant Professor at the Department of the History of Science, Tsinghua University, China. His primary research interests  are in the philosophy of biology, as well as the intellectual history of evolutionary biology.
+From Sep. 2022 to Sep. 2025, he was a postdoctoral researcher at the Institute of Philosophy, Chinese Academy of Sciences. In 2022, he obtained a Ph.D. degree in philosophy from IHPST at University of Toronto.
+In recent years, he has been focusing on topics like the formal models in modern evolutionary theory, explanation in biology, and the philosophical and historical issues about Modern Synthesis.
+
