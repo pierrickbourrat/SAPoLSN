@@ -62,7 +62,9 @@ user_groups:
   - Regular Members
 ---
 
-Zhixiang Cheng is an Assistant Professor at the Department of the History of Science, Tsinghua University, China. His primary research interests  are in the philosophy of biology, as well as the intellectual history of evolutionary biology.
+Zhixiang Cheng is an Assistant Professor at the Department of the History of Science, Tsinghua University, China. His primary research interests are in the philosophy of biology, as well as the intellectual history of evolutionary biology.
+
 From Sep. 2022 to Sep. 2025, he was a postdoctoral researcher at the Institute of Philosophy, Chinese Academy of Sciences. In 2022, he obtained a Ph.D. degree in philosophy from IHPST at University of Toronto.
+
 In recent years, he has been focusing on topics like the formal models in modern evolutionary theory, explanation in biology, and the philosophical and historical issues about Modern Synthesis.
 
