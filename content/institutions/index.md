@@ -72,8 +72,10 @@ type: page
   <div class="institution-title">Partner Entities</div>
   <div class="institution-grid">
     <div class="institution-card">
-      <img src="/images/institutions/partner1.jpg" alt="Partner 1 logo">
-      <div class="institution-name">Partner 1</div>
+      <div class="institution-name">
+      <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/minds-and-intelligences" Minds and Intelligences Research Centre
+      </a>
+      </div>
     </div>
     <div class="institution-card">
       <img src="/images/institutions/partner2.jpg" alt="Partner 2 logo">
