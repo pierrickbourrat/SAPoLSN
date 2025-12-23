@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Regular Members
+  - Members
 ---
 
 Andrew Barron is Director of The Macquarie University Minds and Intelligences Research Centre. Andrew completed his PhD in Zoology at The University of Cambridge in 1999. His lab at Macquarie University studies honey bee neurobiology, specialising on understanding the incredible intelligence of bees and how sophisticated social behaviour is possible with such a tiny brain. He has held fellowships from the Australian Research Council, the Leverhulme Trust, The Fulbright Commission and The Royal Society of London. 

@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Regular Members
+  - Members
 ---
 
 Zhixiang Cheng is an Assistant Professor at the Department of the History of Science, Tsinghua University, China. His primary research interests are in the philosophy of biology, as well as the intellectual history of evolutionary biology.
