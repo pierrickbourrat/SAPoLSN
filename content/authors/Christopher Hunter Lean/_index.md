@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Instructors
+  - Members
 ---
 
 Christopher Lean is a Research Fellow within the Department of Philosophy at Macquarie University, working with the ARC Centre of Excellence in Synthetic Biology. His primary research areas are philosophy of the life sciences (biology, ecology, medicine) and ethics (bioethics, environment, technology). 
