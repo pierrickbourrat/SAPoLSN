@@ -100,16 +100,15 @@ type: page
     <!-- 无 logo 的机构：直接移除 img -->
     <div class="institution-card no-logo">
       <div class="institution-name">
-        <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/minds-and-intelligences" target="_blank" rel="noopener">
-          Minds and Intelligences Research Centre
+        <a href="https://philosophy.fudan.edu.cn/01/b7/c20836a459191/page.htm" target="_blank" rel="noopener">
+          Center for the Philosophy and Science of Intelligence
         </a>
       </div>
     </div>
-    <div class="institution-card">
-      <img src="/images/institutions/partner2.jpg" alt="Partner 2 logo">
+    <div class="institution-card no-logo">
       <div class="institution-name">
-        <a href="https://example.com" target="_blank" rel="noopener">
-          Partner 2
+        <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/minds-and-intelligences" target="_blank" rel="noopener">
+          Minds and Intelligences Research Centre
         </a>
       </div>
     </div>
