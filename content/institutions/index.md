@@ -62,6 +62,13 @@ type: page
 .institution-name a:hover {
   text-decoration: underline;
 }
+
+/* 所属学校（小字） */
+.institution-affiliation {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.2rem;
+}
 </style>
 
 <div class="institution-section">
@@ -104,6 +111,7 @@ type: page
           Centre for Philosophy of Science
         </a>
       </div>
+      <div class="institution-affiliation">The Hong Kong University of Science and Technology</div>
     </div>
     <!-- 无 logo 的机构：直接移除 img -->
     <div class="institution-card no-logo">
@@ -112,6 +120,7 @@ type: page
           Center for the Philosophy and Science of Intelligence
         </a>
       </div>
+      <div class="institution-affiliation">Fudan University</div>
     </div>
     <div class="institution-card no-logo">
       <div class="institution-name">
@@ -119,6 +128,7 @@ type: page
           Minds and Intelligences Research Centre
         </a>
       </div>
+      <div class="institution-affiliation">Macquarie University</div>
     </div>
   </div>
 </div>
