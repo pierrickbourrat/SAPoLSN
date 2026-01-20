@@ -97,6 +97,14 @@ type: page
 <div class="institution-section">
   <div class="institution-title">Partner Entities</div>
   <div class="institution-grid">
+    <div class="institution-card">
+      <img src="/images/institutions/CPS.jpg" alt="Centre for Philosophy of Science logo">
+      <div class="institution-name">
+        <a href="https://philsci.hkust.edu.hk/home" target="_blank" rel="noopener">
+          Centre for Philosophy of Science
+        </a>
+      </div>
+    </div>
     <!-- 无 logo 的机构：直接移除 img -->
     <div class="institution-card no-logo">
       <div class="institution-name">
