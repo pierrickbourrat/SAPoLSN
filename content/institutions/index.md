@@ -65,8 +65,8 @@ type: page
 
 /* 所属学校（小字） */
 .institution-affiliation {
-  font-size: 0.65rem;
-  color: #666;
+  font-size: 0.7rem;
+  color: #b8b8b8;
   margin-top: 0.2rem;
 }
 </style>
