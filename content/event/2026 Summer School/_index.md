@@ -79,8 +79,7 @@ A number of other instructors will participate in the summer school, including P
 **About the Summer School**
 This summer school is a yearly event sponsored and organized by the Sino-Australian Philosophy of Life Sciences Network (SAPoLSN), which was initiated by the Philosophy Discipline within the School of Humanities at Macquarie University, the Department of Philosophy at Peking University, and the School of Philosophy at Fudan University. Its purpose is to introduce the most important recent developments in the philosophy of life sciences to graduate students and young scholars, to promote research and educational cooperation between Chinese and international philosophers of science, and to promote collaboration between the philosophy of life sciences and the sciences. The first two SAPoLSN Summer Schools were successfully held at Peking University in Beijing in summer 2024 and at Fudan University in Shanghai in summer 2025.
 
-This year’s summer school will be held from August 17–22, 2026, and will be 
-hosted by the  Macquarie Minds and Intelligences Research Centre (headed by Andrew Barron) and the School of Humanities at Macquarie University. The theme is:
+This year’s summer school will be held from August 17–22, 2026, and will be hosted by the Macquarie Minds and Intelligences Research Centre (headed by Andrew Barron) and the School of Humanities at Macquarie University. The theme is:
 
 <p align="center"><strong>The Agents of Evolution</strong></p>
 
@@ -90,10 +89,9 @@ In addition to traditional lectures, this summer school will involve diverse act
 
 
 **Registration** 
-Registration is required for all students who want to participate in the summer school. However, registration does not guarantee enrollment in this summer school. Due to limited capacity, we will select participants based on their registration information. The summer school will be free to attend. A small participation fee (to be determined) will be requested from the students to partially cover accommodation costs. Other expenses will be the responsibility of the participants and their institutions.
+Registration is required for all students who want to participate in the summer school. However, registration does not guarantee enrollment in this summer school. Due to limited capacity, we will select participants based on their registration information. The summer school will be free to attend. A participation fee of A$800 or less (to be determined closer to the date) will be requested from the students to partially cover accommodation costs. Other expenses will be the responsibility of the participants and their institutions.
 
-Students from Fudan University and Peking University who are selected as participants in the summer school can obtain a certain amount of travel support from the School of Philosophy at Fudan University and the Department of 
-Philosophy at Peking University, respectively. Students from Fudan University should contact [mingjunzhang@fudan.edu.cn](mailto:mingjunzhang@fudan.edu.cn).
+Students from Fudan University and Peking University who are selected as participants in the summer school can obtain a certain amount of travel support from the School of Philosophy at Fudan University and the Department of Philosophy at Peking University, respectively. Students from Fudan University should contact [mingjunzhang@fudan.edu.cn](mailto:mingjunzhang@fudan.edu.cn).
 
 
 **Requirements**
@@ -104,7 +102,7 @@ Philosophy at Peking University, respectively. Students from Fudan University sh
 **Deadline for registration: May 5th, 2026 (Sydney time, UTC+10)**
 
 **Registration link:**
-https://www.wjx.top/vm/YqwATWz.aspx
+[https://www.wjx.top/vm/YqwATWz.aspx](https://www.wjx.top/vm/YqwATWz.aspx)
 
 **Contact**
 For further information about the summer school, please contact:
