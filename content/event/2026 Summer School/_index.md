@@ -107,9 +107,7 @@ Students from Fudan University and Peking University who are selected as partici
 
 **Deadline for registration: May 5th, 2026 (Sydney time, UTC+10)**
 
-**Registration link:**
-
-[https://www.wjx.top/vm/YqwATWz.aspx](https://www.wjx.top/vm/YqwATWz.aspx)
+**Registration link:** [https://www.wjx.top/vm/YqwATWz.aspx](https://www.wjx.top/vm/YqwATWz.aspx)
 
 **Contact**
 
