@@ -92,13 +92,15 @@ One of the greatest achievements of Darwinian theory was to show how the appeara
 In addition to traditional lectures, this summer school will involve diverse activities, including but not limited to interviews with invited scholars, academic development panels, brainstorming sessions (e.g., for identifying PhD thesis topics), group presentations, organized dinners, and (fun!) excursions. Students will have the opportunity to interact with and learn from world-famous philosophers in person, as well as to communicate and cooperate with their peers in depth. Following the summer school, Macquarie University will host an international workshop on the same theme from August 24–25, which students are warmly encouraged to attend.
 
 
-**Registration** 
+**Registration**
+
 Registration is required for all students who want to participate in the summer school. However, registration does not guarantee enrollment in this summer school. Due to limited capacity, we will select participants based on their registration information. The summer school will be free to attend. A participation fee of A$800 or less (to be determined closer to the date) will be requested from the students to partially cover accommodation costs. Other expenses will be the responsibility of the participants and their institutions.
 
 Students from Fudan University and Peking University who are selected as participants in the summer school can obtain a certain amount of travel support from the School of Philosophy at Fudan University and the Department of Philosophy at Peking University, respectively. Students from Fudan University should contact [mingjunzhang@fudan.edu.cn](mailto:mingjunzhang@fudan.edu.cn).
 
 
 **Requirements**
+
 1. This summer school will be conducted entirely in English. Participants should ensure that they have a good level of English proficiency.
 2. This summer school is open to **postgraduate** students from around the world.
 3. Participants are required to participate offline for the entire duration of all programs. Additionally, they should ensure that they have a basic understanding of and sufficient interest in the summer school.
@@ -106,9 +108,13 @@ Students from Fudan University and Peking University who are selected as partici
 **Deadline for registration: May 5th, 2026 (Sydney time, UTC+10)**
 
 **Registration link:**
+
 [https://www.wjx.top/vm/YqwATWz.aspx](https://www.wjx.top/vm/YqwATWz.aspx)
 
 **Contact**
+
 For further information about the summer school, please contact:
+
 Kangqiao Wang
+
 Email: [kangqiao.wang@students.mq.edu.au](mailto:kangqiao.wang@students.mq.edu.au)
