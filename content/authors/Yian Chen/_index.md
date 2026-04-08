@@ -22,7 +22,7 @@ bio:
 
 interests:
   - Philosophy of Complexity Science
-  - Swarm Intelligence;
+  - Swarm Intelligence
   - Scientific Explanation and Causation
 
 # Education to show in About widget
