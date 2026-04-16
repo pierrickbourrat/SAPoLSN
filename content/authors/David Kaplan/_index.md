@@ -31,7 +31,7 @@ education:
       institution: Duke
       year: 2007
     - course: BA, Philosophy
-      institution: 
+      institution: UCSD
       year: 1997
 
 # Social/Academic Networking
