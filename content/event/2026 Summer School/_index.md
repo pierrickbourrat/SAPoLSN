@@ -53,6 +53,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+**[Important note] The file‑upload function in our registration form may fail on secured university networks and display an “HTTP error”. Switching to a mobile hotspot or a non‑campus network usually resolves the issue immediately. If the problem persists, please contact Kangqiao Wang and submit your registration information by email.**
+
 **Time**
 
 August 17–22, 2026 (check-in on August 15–16)
@@ -108,6 +110,8 @@ Students from Fudan University and Peking University who are selected as partici
 **Deadline for registration: May 5th, 2026 (Sydney time, UTC+10)**
 
 **Registration link:** [https://www.wjx.top/vm/YqwATWz.aspx](https://www.wjx.top/vm/YqwATWz.aspx)
+
+**[Important note] The file‑upload function in our registration form may fail on secured university networks and display an “HTTP error”. Switching to a mobile hotspot or a non‑campus network usually resolves the issue immediately. If the problem persists, please contact Kangqiao Wang and submit your registration information by email.**
 
 **Contact**
 
