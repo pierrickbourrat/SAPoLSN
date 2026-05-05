@@ -53,7 +53,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-**[Important note] The file‑upload function in our registration form may fail on secured university networks and display an “HTTP error”. Switching to a mobile hotspot or a non‑campus network usually resolves the issue immediately. If the problem persists, please contact Kangqiao Wang and submit your registration information by email.**
+**[Important note] The registration deadline has been extended to May 20th, 2026.**
+
 
 **Time**
 
@@ -107,11 +108,11 @@ Students from Fudan University and Peking University who are selected as partici
 2. This summer school is open to **postgraduate** students from around the world.
 3. Participants are required to participate offline for the entire duration of all programs. Additionally, they should ensure that they have a basic understanding of and sufficient interest in the summer school.
 
-**Deadline for registration: May 5th, 2026 (Sydney time, UTC+10)**
+**Deadline for registration: May 20th, 2026 (Sydney time, UTC+10)**
 
 **Registration link:** [https://www.wjx.top/vm/YqwATWz.aspx](https://www.wjx.top/vm/YqwATWz.aspx)
 
-**[Important note] The file‑upload function in our registration form may fail on secured university networks and display an “HTTP error”. Switching to a mobile hotspot or a non‑campus network usually resolves the issue immediately. If the problem persists, please contact Kangqiao Wang and submit your registration information by email.**
+**[Note] The file‑upload function in our registration form may fail on secured university networks and display an “HTTP error”. Switching to a mobile hotspot or a non‑campus network usually resolves the issue immediately. If the problem persists, please contact Kangqiao Wang and submit your registration information by email.**
 
 **Contact**
 
