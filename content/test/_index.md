@@ -7,4 +7,5 @@ sections:
     content:
       title: Workshop Test
       details: August 2026
+---
 ``
