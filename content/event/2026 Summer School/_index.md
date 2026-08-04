@@ -74,13 +74,21 @@ Sino-Australian Philosophy of Life Sciences Network (SAPoLSN)
 - School of Philosophy at Fudan University (Mingjun Zhang)
 
 
-**Instructors**
+**Main Instructors**
 
-- Elisabeth A. Lloyd (Department of History and Philosophy of Science and Medicine, Indiana University, Bloomington, USA)
-- Alex Rosenberg (Department of Philosophy, Duke University, Durham, USA)
+- Alex Rosenberg (Duke University, USA)
+- Paul Griffiths (University of Sydney and Macquarie University, Australia)
 
-A number of other instructors will participate in the summer school, including Paul Griffiths (University of Sydney and Macquarie University), Matthew Sims (Macquarie University), Peter Takacs (Macquarie University), and Cristina Villegas (Konrad Lorenz Institute).
+**Other Instructors**
 
+- Elisabeth Lloyd (Indiana University, Bloomington, USA)
+- Gunnar Babcock (College of Agriculture and Life Sciences, Cornell University, USA)
+- Cristina Villegas (Konrad Lorenz Institute, Austria)
+- Yafeng Shan (Hong Kong University of Science and Technology, Hong Kong SAR, China)
+- Rob Wilson (University of Western Australia, Australia)
+- Andrew Barron (Macquarie University, Australia)
+- Christopher Lean (Macquarie University, Australia)
+- David Kaplan (Macquarie University, Australia)
 
 **About the Summer School**
 
