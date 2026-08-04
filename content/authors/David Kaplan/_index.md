@@ -60,6 +60,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Members
+  - Speakers2026
 ---
 
 David Kaplan is an Associate Professor in the School of Psychological Sciences at Macquarie University and an Associate Investigator in several interdisciplinary research centres, including the Macquarie University Minds and Intelligences Research Centre and the Performance and Expertise Research Centre.
