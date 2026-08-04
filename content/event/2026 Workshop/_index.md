@@ -98,15 +98,17 @@ sections:
     content:
       title: Location
 
-      text: |
+    text: |
 
-        ![Location Map](map.jpg)
+      <div style="text-align: center;">
+        <img src="map.jpg" width="700">
+      </div>
 
-        School of Humanities
+      School of Humanities
 
-        Macquarie University
+      Macquarie University
 
-        Sydney, Australia
+      Sydney, Australia
     
     design:
       css_class: "text-center"

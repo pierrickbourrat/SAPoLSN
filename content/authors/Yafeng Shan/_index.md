@@ -66,6 +66,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Members
+  - Speakers2026
 ---
 
 I am a philosopher, specialising in general philosophy of science, history and philosophy of biology, epistemology, metaphilosophy, and philosophy of social science, based at the Hong Kong University of Science and Technology, where I founded the [Center for Philosophy of Science](https://philsci.hkust.edu.hk/people) and [CWB Philosophy of Science Research Group](https://www.shanyafeng.com/cwb-philosophy-of-science). I am the author and editor of several books, published by Oxford University Press, Routledge, Springer, and Wiley. I also edited special issues of such journals as _Synthese_, _Studies in History and Philosophy of Science_, and _Metaphyilosophy_. My research articles appear in journals including _Philosophy of Science_, _Synthese_, _European Journal for Philosophy of Science_, _Studies in History and Philosophy of Science_, and _Philosophy Compass_.

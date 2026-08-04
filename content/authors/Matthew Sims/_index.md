@@ -68,6 +68,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Instructors
+  - Organisers2026
 ---
 
 Matthew Sims is a postdoctoral researcher on the project Cognition All the Way Up at Macquarie University, Sydney, Australia and is an affiliate at the Department of History of Philosophy of Science at the University of Cambridge. His research falls at the intersection of the Philosophy of Biology and the Philosophy of Cognitive Science, where he focuses on memory and learning, the evolution of cognition, Evo-Devo, and major evolutionary transitions. He has done extensive research on the protist _Physarum polycephalum_ (an acellular slime mould), which was the topic of his first monograph (Cambridge University Press). In 2021 he received his PhD from the University of Edinburgh (UK) and was subsequently an Alexander von Humboldt Fellow at Ruhr University Bochum (DE) from 2021 to 2023, a Biology and Cognition Fellow at Ruhr University Bochum from 2023 to 2024, and a Research Associate at the Leverhulme Centre for the Future of Intelligence at the University of Cambridge (UK) from 2024 to 2025. 

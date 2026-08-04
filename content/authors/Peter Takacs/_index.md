@@ -68,6 +68,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Members
+  - Organisers2026
 ---
 
 Peter is a Research Fellow at Macquarie University, Sydney, Australia. He specializes in the philosophy of biology, philosophy of medicine, and the history and philosophy of science. From 2018 to 2024, he was an ARC Postdoctoral Research Fellow at The University of Sydney. His work focuses on foundational concepts in ecology and evolutionary biology (e.g., fitness), conceptual issues surrounding the application and impact of evolutionary theory in medicine, major transitions in individuality, and perennial topics in the philosophy of science (e.g., causation and explanation). He also maintains serious interests in the history of evolutionary thinking and the need for a so-called “Extended Evolutionary Synthesis.”
