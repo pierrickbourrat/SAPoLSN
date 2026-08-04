@@ -1,6 +1,6 @@
 ---
 title: "2026 Workshop"
-date: 2026-08-18
+date: 2026-08-04
 type: landing
 
 design:
