@@ -107,6 +107,9 @@ sections:
         Macquarie University
 
         Sydney, Australia
+    
+    design:
+      css_class: "text-center"
 
 
   - block: markdown
