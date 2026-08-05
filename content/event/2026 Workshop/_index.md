@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: |
-        The Agents of Evolution
+        Philosophy Meets the Life Sciences
 
       text: |
 
@@ -32,9 +32,7 @@ sections:
       title: About
       text: |
 
-        One of the greatest achievements of Darwinian theory was to show how the appearance of design in nature can be explained without invoking agency. In particular, by grounding adaptation in variation, differential reproduction, and heredity, Darwinian explanations replace intention with a process that is blind to ends. Yet it would be a mistake to conclude that evolutionary theory thereby eliminates agency from its conceptual repertoire altogether. Even when organisms are not treated as literal agents, evolutionary reasoning continues to rely on notions that are naturally read in agential or quasi-agential terms: we speak of strategies, signals, conflicts, cooperation, and, more abstractly, of entities occupying functional and causal roles within evolutionary explanations. In this workshop, we will examine when, why, and in what sense agency re-enters evolutionary theorizing, including the explanatory payoffs and risks of agential language in evolution.
-
-        We aim to provide an opportunity for open exchange among philosophers of biology, philosophy of mind, cognitive science, and related disciplines.
+        The main objective of this 2-day workshop will be to showcase research in philosophy that deeply engages with the life sciences and, conversely, to feature work in the life sciences that engages substantially with philosophy. The theme of the workshop is intentionally broad, as an effort to support both continued dialogue between experts in philosophy and the life sciences while also providing a platform for potential future collaborations.
 
 
   - block: people

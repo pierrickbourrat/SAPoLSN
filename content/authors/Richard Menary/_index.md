@@ -85,6 +85,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Members
+  - Speakers2026
 ---
 
 My research is in interdisciplinary philosophy of mind and cognition. I work closely with cognitive scientists and I have published widely on extended, embodied and distributed cognition, neural plasticity, symbolic cognition – particularly reading and mathematical cognition, the cultural evolution of social cognition pragmatism and cognitive science and embodied narratives and the self. I am currently completing a new book on the enculturated mind. I have been Professor of Philosophy since 2018, I was Head of department between 2018 and 2023. Between 2014 and 2018 I was an ARC Future Fellow at Macquarie University Sydney and between 2011 and 2014 I was a senior research fellow in the ARC centre of excellence in cognition and its disorders. I read for a BA in philosophy at the University of Ulster, an MSc in Cognitive Science at the University of Birmingham and then a PhD in philosophy at King's College London. I have taught philosophy at the University of Kent, Birkbeck College Faculty of Continuing Education and as a Senior Lecturer at the University of Hertfordshire and then at the University of Wollongong.
