@@ -67,6 +67,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Student Ambassadors
+  - Organisers2026
 ---
 I am a PhD candidate in the Discipline of Philosophy, School of Humanities, Macquarie University, Sydney, Australia.
 

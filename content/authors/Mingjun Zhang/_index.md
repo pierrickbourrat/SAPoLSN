@@ -70,7 +70,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Founding Members
-  - Organisers2026
   - Speakers2026
 ---
 Mingjun ZHANG is an assistant professor in the Department of Philosophy of Science and Logic, School of Philosophy, Fudan University. 
