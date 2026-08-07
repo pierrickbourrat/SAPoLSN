@@ -99,13 +99,15 @@ sections:
       text: |
 
         <div style="text-align: center; margin: 0 auto;">
-          <img src="map.jpg" 
+          <img src="Lakeside.png" 
                alt="Map of the venue" 
                style="max-width: 100%; width: 700px; height: auto; display: block; margin: 0 auto;">
         </div>
 
         <p style="text-align: center; margin-top: 1rem;">
-          Lakeside Hotel &amp; Conference Centre<br>
+          <a href="https://maps.app.goo.gl/WwpNbySsNT9JboNZ6?g_st=ic" target="_blank" rel="noopener">
+            Lakeside Hotel &amp; Conference Centre
+          </a><br>
           Macquarie University<br>
           Sydney, Australia
         </p>
