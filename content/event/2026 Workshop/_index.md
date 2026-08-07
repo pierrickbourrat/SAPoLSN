@@ -139,43 +139,43 @@ sections:
           object-fit: contain;
         }
 
-      .sponsor-name {
-        margin-top: 0.5rem;
-      }
+        .sponsor-name {
+          margin-top: 0.5rem;
+        }
 
-      .sponsor-name a {
-        text-decoration: none;
-        color: inherit;
-      }
+        .sponsor-name a {
+          text-decoration: none;
+          color: inherit;
+        }
 
-      .sponsor-name a:hover {
-        text-decoration: underline;
-      }
+        .sponsor-name a:hover {
+          text-decoration: underline;
+        }
 
-      </style>
+        </style>
 
-      <div class="sponsor-grid">
+        <div class="sponsor-grid">
 
-        <div class="sponsor-card">
-          mq_logo.png
-          <div class="sponsor-name">
-            Macquarie University
+          <div class="sponsor-card">
+            mq_logo.png
+            <div class="sponsor-name">
+              Macquarie University
+            </div>
           </div>
-        </div>
 
-        <div class="sponsor-card">
-          pku_logo.png
-          <div class="sponsor-name">
-            Peking University
+          <div class="sponsor-card">
+            pku_logo.png
+            <div class="sponsor-name">
+              Peking University
+            </div>
           </div>
-        </div>
 
-        <div class="sponsor-card">
-          fdu_logo.png
-          <div class="sponsor-name">
-            Fudan University
+          <div class="sponsor-card">
+            fdu_logo.png
+            <div class="sponsor-name">
+              Fudan University
+            </div>
           </div>
-        </div>
 
-      </div>
+        </div>
 ---
