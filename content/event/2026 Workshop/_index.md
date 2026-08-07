@@ -98,15 +98,17 @@ sections:
 
       text: |
 
-        <div style="text-align: center;">
-          <img src="map.jpg" width="700">
+        <div style="text-align: center; margin: 0 auto;">
+          <img src="map.jpg" 
+               alt="Map of the venue" 
+               style="max-width: 100%; width: 700px; height: auto; display: block; margin: 0 auto;">
         </div>
 
-        School of Humanities
-
-        Macquarie University
-
-        Sydney, Australia
+        <p style="text-align: center; margin-top: 1rem;">
+          Lakeside Hotel &amp; Conference Centre<br>
+          Macquarie University<br>
+          Sydney, Australia
+        </p>
     
     design:
       css_class: "text-center"
