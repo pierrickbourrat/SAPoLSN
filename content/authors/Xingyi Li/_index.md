@@ -10,11 +10,11 @@ last_name: Li
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Fudan University
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
+  - name: PhD Candidate
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

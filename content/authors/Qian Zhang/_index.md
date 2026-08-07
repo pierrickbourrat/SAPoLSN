@@ -10,11 +10,11 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Renmin University of China
 
 # Organizations/Affiliations
 organizations:
-  - name: Renmin University of China
+  - name: PhD Candidate
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

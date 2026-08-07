@@ -10,11 +10,11 @@ last_name: Brown
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Australian National University
 
 # Organizations/Affiliations
 organizations:
-  - name: Australian National University
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

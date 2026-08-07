@@ -10,12 +10,12 @@ last_name: Bourrat
 superuser: true
 
 # Role/position
-role: Senior Lecturer
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
-    url: 'https://www.mq.edu.au/'
+  - name: Senior Lecturer
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the various concepts deployed in evolutionary theory, causation, and the interplay between biological and cultural evolution.

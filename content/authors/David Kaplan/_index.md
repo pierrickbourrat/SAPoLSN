@@ -10,11 +10,11 @@ last_name: Kaplan
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

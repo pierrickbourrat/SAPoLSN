@@ -10,11 +10,11 @@ last_name: Nave
 superuser: false
 
 # Role/position
-role: Leverhulme Trust Early Career Research Fellow
+role: The University of Edinburgh
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Edinburgh
+  - name: Leverhulme Trust Early Career Research Fellow
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

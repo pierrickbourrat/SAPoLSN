@@ -10,11 +10,11 @@ last_name: Gillett
 superuser: false
 
 # Role/position
-role: Lecturer
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: Lecturer
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

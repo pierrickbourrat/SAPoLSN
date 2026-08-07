@@ -10,11 +10,11 @@ last_name: Sims
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: Postdoctoral Researcher
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

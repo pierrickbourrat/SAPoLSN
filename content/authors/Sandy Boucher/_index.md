@@ -10,11 +10,11 @@ last_name: Boucher
 superuser: false
 
 # Role/position
-role: Senior Lecturer
+role: University of New England
 
 # Organizations/Affiliations
 organizations:
-  - name: University of New England
+  - name: Senior Lecturer
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

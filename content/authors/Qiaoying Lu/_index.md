@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Peking University
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

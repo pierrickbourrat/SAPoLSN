@@ -10,11 +10,11 @@ last_name: Raubenheimer
 superuser: false
 
 # Role/position
-role: Leonard P. Ullman Chair in Nutritional Ecology
+role: University of Sydney
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Sydney
+  - name: Leonard P. Ullman Chair in Nutritional Ecology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

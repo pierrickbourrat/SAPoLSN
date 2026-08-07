@@ -10,11 +10,11 @@ last_name: Menary
 superuser: false
 
 # Role/position
-role: Professor
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

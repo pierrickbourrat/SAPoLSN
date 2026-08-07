@@ -10,11 +10,11 @@ last_name: Monsó
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Universidad Nacional de Educación a Distancia (UNED)
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad Nacional de Educación a Distancia (UNED)
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

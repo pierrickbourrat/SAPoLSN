@@ -10,11 +10,11 @@ last_name: Matthewson
 superuser: false
 
 # Role/position
-role: Senior Lecturer
+role: Massey University
 
 # Organizations/Affiliations
 organizations:
-  - name: Massey University
+  - name: Senior Lecturer
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

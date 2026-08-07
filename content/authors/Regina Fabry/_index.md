@@ -10,11 +10,11 @@ last_name: Fabry
 superuser: false
 
 # Role/position
-role: Senior Lecturer
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: Senior Lecturer
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

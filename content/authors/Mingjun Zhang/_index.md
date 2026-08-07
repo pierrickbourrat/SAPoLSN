@@ -10,11 +10,11 @@ last_name: Zhang
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Fudan University
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
+  - name: Assistant Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

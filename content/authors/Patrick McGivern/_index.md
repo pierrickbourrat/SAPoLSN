@@ -10,11 +10,11 @@ last_name: McGivern
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: University of Wollongong
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Wollongong
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

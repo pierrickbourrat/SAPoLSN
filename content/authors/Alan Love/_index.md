@@ -10,11 +10,11 @@ last_name: Love
 superuser: false
 
 # Role/position
-role: Professor
+role: University of Minnesota
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Minnesota
+  - name: Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

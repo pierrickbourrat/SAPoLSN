@@ -10,11 +10,11 @@ last_name: Segundo Ortín
 superuser: false
 
 # Role/position
-role: Ramón y Cajal Research Fellow
+role: Universidad de Murcia (Spain)
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de Murcia (Spain)
+  - name: Ramón y Cajal Research Fellow
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

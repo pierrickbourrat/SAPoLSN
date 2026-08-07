@@ -10,14 +10,14 @@ last_name: Griffiths
 superuser: false
 
 # Role/position
-role: Emeritus Professor
+role: Univerisity of Sydney & Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Univerisity of Sydney
+  - name: Emeritus Professor
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chuang...
+bio: 
 
 interests:
   - Philosophy of Science

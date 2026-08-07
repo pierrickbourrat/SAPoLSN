@@ -10,11 +10,11 @@ last_name: Parke
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Waipapa Taumata Rau | University of Auckland
 
 # Organizations/Affiliations
 organizations:
-  - name: Waipapa Taumata Rau | University of Auckland
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

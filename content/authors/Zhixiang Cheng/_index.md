@@ -10,11 +10,11 @@ last_name: Cheng
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Tsinghua University
 
 # Organizations/Affiliations
 organizations:
-  - name: Tsinghua University
+  - name: Assistant Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

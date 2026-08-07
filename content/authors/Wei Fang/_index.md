@@ -10,11 +10,11 @@ last_name: Fang
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Sun Yat-sen University
 
 # Organizations/Affiliations
 organizations:
-  - name: Sun Yat-sen University
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

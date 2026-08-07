@@ -10,11 +10,11 @@ last_name: Wang
 superuser: false
 
 # Role/position
-role: Professor
+role: Tsinghua University
 
 # Organizations/Affiliations
 organizations:
-  - name: Tsinghua University
+  - name: Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

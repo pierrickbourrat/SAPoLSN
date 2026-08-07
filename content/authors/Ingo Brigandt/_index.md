@@ -10,11 +10,11 @@ last_name: Brigandt
 superuser: false
 
 # Role/position
-role: Professor
+role: University of Alberta
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Alberta
+  - name: Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

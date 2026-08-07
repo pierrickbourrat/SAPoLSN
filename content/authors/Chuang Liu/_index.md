@@ -10,12 +10,11 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Distinguished Professor
+role: Fudan University & Institute of Philosophy, Chinese Academy of Sciences (CASIP)
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
-  - name: Institute of Philosophy, Chinese Academy of Sciences (CASIP)
+  - name: Distinguished Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

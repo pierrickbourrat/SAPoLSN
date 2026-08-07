@@ -10,11 +10,11 @@ last_name: Wu
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: The Institute of Philosophy of the Chinese Academy of Sciences, CASIP
 
 # Organizations/Affiliations
 organizations:
-  - name: The Institute of Philosophy of the Chinese Academy of Sciences, CASIP
+  - name: Assistant Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

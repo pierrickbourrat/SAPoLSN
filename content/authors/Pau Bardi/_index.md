@@ -10,11 +10,11 @@ last_name: Bardi
 superuser: false
 
 # Role/position
-role: MSc Student
+role: Universitat Pompeu Fabra
 
 # Organizations/Affiliations
 organizations:
-  - name: Universitat Pompeu Fabra
+  - name: MSc Student
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

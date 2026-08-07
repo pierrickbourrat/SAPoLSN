@@ -10,11 +10,11 @@ last_name: Ren
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: University of Missouri
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Missouri
+  - name: PhD Candidate
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

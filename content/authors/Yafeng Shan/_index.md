@@ -10,11 +10,11 @@ last_name: Shan
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: The Hong Kong University of Science and Technology
 
 # Organizations/Affiliations
 organizations:
-  - name: The Hong Kong University of Science and Technology
+  - name: Assistant Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -10,11 +10,11 @@ last_name: Villegas
 superuser: false
 
 # Role/position
-role: Group Leader in Philosophy of the Life Sciences
+role: Konrad Lorenz Institute for Evolution and Cognition Research
 
 # Organizations/Affiliations
 organizations:
-  - name: Konrad Lorenz Institute for Evolution and Cognition Research
+  - name: Group Leader in Philosophy of the Life Sciences
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

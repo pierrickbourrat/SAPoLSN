@@ -10,11 +10,11 @@ last_name: Nuño de la Rosa
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Spanish National Research Council (CISC)
 
 # Organizations/Affiliations
 organizations:
-  - name: Spanish National Research Council (CISC)
+  - name: Associate Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

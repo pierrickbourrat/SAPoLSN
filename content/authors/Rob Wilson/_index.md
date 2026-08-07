@@ -10,11 +10,11 @@ last_name: Wilson
 superuser: false
 
 # Role/position
-role: Professor
+role: University of Western Australia
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Western Australia
+  - name: Professor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -10,11 +10,11 @@ last_name: Breviario
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
+  - name: PhD Candidate
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

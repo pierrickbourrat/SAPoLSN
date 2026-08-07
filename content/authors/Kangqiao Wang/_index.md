@@ -10,12 +10,12 @@ last_name: Wang
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Macquarie University
 
 # Organizations/Affiliations
 organizations:
-  - name: Macquarie University
-    url: 'https://www.mq.edu.au/'
+  - name: PhD Candidate
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

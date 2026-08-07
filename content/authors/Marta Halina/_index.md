@@ -10,11 +10,11 @@ last_name: Halina
 superuser: false
 
 # Role/position
-role: Professor of Philosophy of Science
+role: University of Cambridge
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Cambridge
+  - name: Professor of Philosophy of Science
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
