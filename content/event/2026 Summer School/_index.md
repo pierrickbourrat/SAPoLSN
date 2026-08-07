@@ -74,18 +74,17 @@ Sino-Australian Philosophy of Life Sciences Network (SAPoLSN)
 **Main Instructors**
 
 - Alex Rosenberg (Duke University, USA)
-- Paul Griffiths (University of Sydney and Macquarie University, Australia)
+- Paul E. Griffiths (University of Sydney and Macquarie University, Australia)
 
 **Other Instructors**
 
-- Elisabeth Lloyd (Indiana University, Bloomington, USA)
-- Gunnar Babcock (College of Agriculture and Life Sciences, Cornell University, USA)
-- Cristina Villegas (Konrad Lorenz Institute, Austria)
-- Yafeng Shan (Hong Kong University of Science and Technology, Hong Kong SAR, China)
-- Rob Wilson (University of Western Australia, Australia)
 - Andrew Barron (Macquarie University, Australia)
+- Gunnar Babcock (Cornell University, USA)
 - Christopher Lean (Macquarie University, Australia)
-- David Kaplan (Macquarie University, Australia)
+- Elisabeth A. Lloyd (Indiana University, Bloomington, USA)
+- Yafeng Shan (Hong Kong University of Science and Technology, Hong Kong SAR, China)
+- Cristina Villegas (Konrad Lorenz Institute for Evolution and Cognition Research, Austria)
+- Rob Wilson (University of Western Australia, Australia)
 
 **About the Summer School**
 
