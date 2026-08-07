@@ -174,6 +174,15 @@ sections:
           </div>
 
           <div class="sponsor-card">
+            <img src="/images/institutions/mq.jpg" alt="Macquarie University logo">
+            <div class="sponsor-name">
+              <a href="https://www.mq.edu.au" target="_blank" rel="noopener">
+                Macquarie University
+              </a>
+            </div>
+          </div>
+
+          <div class="sponsor-card">
             <img src="/images/institutions/pku.jpg" alt="Peking University logo">
             <div class="sponsor-name">
               <a href="https://www.pku.edu.cn" target="_blank" rel="noopener">
