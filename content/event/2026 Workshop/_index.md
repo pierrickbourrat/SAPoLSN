@@ -157,14 +157,9 @@ sections:
         <div class="sponsor-grid">
 
           <div class="sponsor-card">
-            www.pku.edu.cn/" target="_blank">
-
-              /images/institutions/pku.jpg
-
-            </a>
-
+            <img src="/images/institutions/pku.jpg" alt="Peking University logo">
             <div class="sponsor-name">
-              https://www.pku.edu.cn/" target="_blank">
+              <a href="https://www.pku.edu.cn" target="_blank" rel="noopener">
                 Peking University
               </a>
             </div>
