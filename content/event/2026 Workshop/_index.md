@@ -119,24 +119,31 @@ sections:
       title: Sponsors
       text: |
         <style>
-
         .sponsor-grid {
           display: flex;
           flex-wrap: wrap;
-          justify-content: center;
+          justify-content: center;   /* 水平居中 */
+          align-items: center;       /* 垂直居中（当高度不一致时有用） */
           gap: 2rem;
-          margin-top: 2rem;
+          margin: 2rem auto 0;       /* 上下外边距 + 水平自动居中 */
+          max-width: 100%;
+          width: 100%;
         }
 
         .sponsor-card {
           width: 180px;
           text-align: center;
+          display: flex;
+          flex-direction: column;
+          align-items: center;       /* 卡片内部图片和文字也居中 */
         }
 
         .sponsor-card img {
           max-width: 100%;
           max-height: 100px;
           object-fit: contain;
+          display: block;            /* 去掉图片默认的 inline 空隙 */
+          margin: 0 auto;
         }
 
         .sponsor-name {
@@ -151,7 +158,6 @@ sections:
         .sponsor-name a:hover {
           text-decoration: underline;
         }
-
         </style>
 
         <div class="sponsor-grid">
