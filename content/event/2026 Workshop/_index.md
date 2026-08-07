@@ -157,14 +157,21 @@ sections:
         <div class="sponsor-grid">
 
           <div class="sponsor-card">
-            mq_logo.png
+            www.pku.edu.cn/" target="_blank">
+
+              /images/institutions/pku.jpg
+
+            </a>
+
             <div class="sponsor-name">
-              Macquarie University
+              https://www.pku.edu.cn/" target="_blank">
+                Peking University
+              </a>
             </div>
           </div>
 
           <div class="sponsor-card">
-            pku_logo.png
+            /images/institutions/pku.jpg
             <div class="sponsor-name">
               Peking University
             </div>
