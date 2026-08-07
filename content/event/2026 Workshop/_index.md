@@ -96,36 +96,86 @@ sections:
     content:
       title: Location
 
-    text: |
+      text: |
 
-      <div style="text-align: center;">
-        <img src="map.jpg" width="700">
-      </div>
+        <div style="text-align: center;">
+          <img src="map.jpg" width="700">
+        </div>
 
-      School of Humanities
+        School of Humanities
 
-      Macquarie University
+        Macquarie University
 
-      Sydney, Australia
+        Sydney, Australia
     
     design:
       css_class: "text-center"
 
 
-  - block: people
+  - block: markdown
     id: sponsors
 
     content:
       title: Sponsors
+      text: |
+        <style>
 
-      user_groups:
-        - Sponsors2026
+        .sponsor-grid {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 2rem;
+          margin-top: 2rem;
+        }
 
-      sort_by: Params.last_name
-      sort_ascending: true
+        .sponsor-card {
+          width: 180px;
+          text-align: center;
+        }
 
-    design:
-      show_role: true
-      show_social: false
-      show_interests: false
+        .sponsor-card img {
+          max-width: 100%;
+          max-height: 100px;
+          object-fit: contain;
+        }
+
+      .sponsor-name {
+        margin-top: 0.5rem;
+      }
+
+      .sponsor-name a {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .sponsor-name a:hover {
+        text-decoration: underline;
+      }
+
+      </style>
+
+      <div class="sponsor-grid">
+
+        <div class="sponsor-card">
+          mq_logo.png
+          <div class="sponsor-name">
+            Macquarie University
+          </div>
+        </div>
+
+        <div class="sponsor-card">
+          pku_logo.png
+          <div class="sponsor-name">
+            Peking University
+          </div>
+        </div>
+
+        <div class="sponsor-card">
+          fdu_logo.png
+          <div class="sponsor-name">
+            Fudan University
+          </div>
+        </div>
+
+      </div>
 ---
