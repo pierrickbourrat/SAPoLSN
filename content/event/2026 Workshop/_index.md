@@ -157,6 +157,15 @@ sections:
         <div class="sponsor-grid">
 
           <div class="sponsor-card">
+            <img src="/images/institutions/SAPoLSN.jpg" alt="SAPoLSN logo">
+            <div class="sponsor-name">
+              <a href="https://www.sapolsn.com" target="_blank" rel="noopener">
+                SAPoLSN
+              </a>
+            </div>
+          </div>
+
+          <div class="sponsor-card">
             <img src="/images/institutions/pku.jpg" alt="Peking University logo">
             <div class="sponsor-name">
               <a href="https://www.pku.edu.cn" target="_blank" rel="noopener">
@@ -166,16 +175,28 @@ sections:
           </div>
 
           <div class="sponsor-card">
-            /images/institutions/pku.jpg
+            <img src="/images/institutions/fdu.jpg" alt="Fudan University logo">
             <div class="sponsor-name">
-              Peking University
+              <a href="https://www.fudan.edu.cn" target="_blank" rel="noopener">
+                Fudan University
+              </a>
             </div>
           </div>
 
           <div class="sponsor-card">
-            fdu_logo.png
+            <img src="/images/institutions/JTF.jpg" alt="JTF logo">
             <div class="sponsor-name">
-              Fudan University
+              <a href="https://www.templeton.org/" target="_blank" rel="noopener">
+                John Templeton Foundation
+              </a>
+            </div>
+          </div>
+
+          <div class="sponsor-card">
+            <div class="sponsor-name">
+              <a href="https://www.mq.edu.au/research/research-centres-institutes-and-initiatives/minds-and-intelligences" target="_blank" rel="noopener">
+                Minds and Intelligences Research Centre
+              </a>
             </div>
           </div>
 
