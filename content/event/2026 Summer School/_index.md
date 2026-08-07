@@ -53,9 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-**[Important note] The registration deadline has been extended to May 20th, 2026.**
-
-
 **Time**
 
 August 17–22, 2026 (check-in on August 15–16)

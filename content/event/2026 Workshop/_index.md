@@ -112,17 +112,20 @@ sections:
       css_class: "text-center"
 
 
-  - block: markdown
+  - block: people
     id: sponsors
 
     content:
       title: Sponsors
 
-      text: |
+      user_groups:
+        - Sponsors2026
 
-        Sponsor information coming soon.
+      sort_by: Params.last_name
+      sort_ascending: true
 
-        sponsor1.png
-
-        sponsor2.png
+    design:
+      show_role: true
+      show_social: false
+      show_interests: false
 ---
