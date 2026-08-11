@@ -76,7 +76,230 @@ sections:
 
       text: |
 
-        ## Day 1 (24 August)
+        <style>
+        .schedule-table {
+          width: 95%;
+          margin: 0 auto 3rem auto;
+          border-collapse: collapse;
+        }
+
+        .schedule-table th,
+        .schedule-table td {
+          border: 1px solid rgba(255,255,255,0.2);
+          padding: 12px 16px;
+          vertical-align: top;
+        }
+
+        .schedule-table th {
+          text-align: left;
+        }
+
+        .schedule-time {
+          width: 18%;
+          white-space: nowrap;
+        }
+
+        .schedule-speaker {
+          width: 32%;
+        }
+
+        .schedule-title {
+          width: 50%;
+        }
+
+        .schedule-break {
+          text-align: center;
+          font-style: italic;
+        }
+        </style>
+
+        <h2 style="text-align:center; margin-bottom:1rem;">
+        Day 1 (24 August)
+        </h2>
+
+        <table class="schedule-table">
+
+        <tr>
+        <th class="schedule-time">Time</th>
+        <th class="schedule-speaker">Speaker</th>
+        <th class="schedule-title">Title</th>
+        </tr>
+
+        <tr>
+        <td>08:30-08:50</td>
+        <td colspan="2" class="schedule-break">Coffee / Registration</td>
+        </tr>
+
+        <tr>
+        <td>08:50-09:00</td>
+        <td colspan="2" class="schedule-break">Welcome</td>
+        </tr>
+
+        <tr>
+        <td>09:00-09:45</td>
+        <td>Paul Griffiths (University of Sydney and Macquarie University)</td>
+        <td>TBA</td>
+        </tr>
+
+        <tr>
+        <td>09:45-10:30</td>
+        <td>Mingjun Zhang (University of Sydney and Macquarie University)</td>
+        <td>Demystifying Distinctively Mathematical Explanations</td>
+        </tr>
+
+        <tr>
+        <td>10:30-11:00</td>
+        <td colspan="2" class="schedule-break">Coffee Break 1</td>
+        </tr>
+
+        <tr>
+        <td>11:00-11:45</td>
+        <td>David Kaplan (Macquarie University)</td>
+        <td>It's about time: A mechanistic perspective on timescales and temporal organisation in the brain</td>
+        </tr>
+
+        <tr>
+        <td>11:45-12:30</td>
+        <td>Andreas Wagner (University of Zürich)</td>
+        <td>TBA</td>
+        </tr>
+
+        <tr>
+        <td>12:30-02:00</td>
+        <td colspan="2" class="schedule-break">Lunch</td>
+        </tr>
+
+        <tr>
+        <td>02:00-02:45</td>
+        <td>Chris Lean (Macquarie University)</td>
+        <td>Genomic Globalisation</td>
+        </tr>
+
+        <tr>
+        <td>02:45-03:30</td>
+        <td>Cristina Villegas (Konrad Lorenz Institute for Evolution and Cognition Research)</td>
+        <td>Modeling Evolutionary Variation with Causal Probability</td>
+        </tr>
+
+        <tr>
+        <td>03:30-04:00</td>
+        <td colspan="2" class="schedule-break">Coffee Break 2</td>
+        </tr>
+
+        <tr>
+        <td>04:00-04:45</td>
+        <td>Rob Wilson (University of Western Australia)</td>
+        <td>The Progenerative View of Kinship as a Philosophical Intervention in the Fragile Sciences</td>
+        </tr>
+
+        <tr>
+        <td>04:45 pm</td>
+        <td colspan="2" class="schedule-break">End of Day 1</td>
+        </tr>
+
+        <tr>
+        <td>06:00 pm</td>
+        <td colspan="2" class="schedule-break">Dinner at The Ranch</td>
+        </tr>
+
+        </table>
+
+        <h2 style="text-align:center; margin-bottom:1rem;">
+        Day 2 (25 August)
+        </h2>
+
+        <table class="schedule-table">
+
+        <tr>
+        <th class="schedule-time">Time</th>
+        <th class="schedule-speaker">Speaker</th>
+        <th class="schedule-title">Title</th>
+        </tr>
+
+        <tr>
+        <td>08:30-09:00</td>
+        <td colspan="2" class="schedule-break">Coffee / Arrival</td>
+        </tr>
+
+        <tr>
+        <td>09:00-09:45</td>
+        <td>David Raubenheimer (University of Sydney)</td>
+        <td>Agencies in nutritional systems</td>
+        </tr>
+
+        <tr>
+        <td>09:45-10:30</td>
+        <td>Rachael Brown (Australian National University)</td>
+        <td>TBA</td>
+        </tr>
+
+        <tr>
+        <td>10:30-11:00</td>
+        <td colspan="2" class="schedule-break">Coffee Break 1</td>
+        </tr>
+
+        <tr>
+        <td>11:00-11:45</td>
+        <td>Yafeng Shan (The Hong Kong University of Science and Technology)</td>
+        <td>Origins of Genetics Revisited</td>
+        </tr>
+
+        <tr>
+        <td>11:45-12:30</td>
+        <td>Andrew Barron (Macquarie University)</td>
+        <td>The first neural spatial representation</td>
+        </tr>
+
+        <tr>
+        <td>12:30-02:00</td>
+        <td colspan="2" class="schedule-break">Lunch</td>
+        </tr>
+
+        <tr>
+        <td>02:00-02:45</td>
+        <td>John Matthewson (Massey University)</td>
+        <td>Model organisms and population types</td>
+        </tr>
+
+        <tr>
+        <td>02:45-03:30</td>
+        <td>Sandy Boucher (University of New England)</td>
+        <td>Endogenising organisation: organicism and the major transitions in evolution</td>
+        </tr>
+
+        <tr>
+        <td>03:30-04:00</td>
+        <td colspan="2" class="schedule-break">Coffee Break 2</td>
+        </tr>
+
+        <tr>
+        <td>04:00-04:45</td>
+        <td>Patrick McGivern (University of Wollongong)</td>
+        <td>Transitions in biological individuality and mesoscale structure</td>
+        </tr>
+
+        <tr>
+        <td>04:45-05:30</td>
+        <td>Ken Cheng (Macquarie University)</td>
+        <td>Basic units of action as basis for navigation</td>
+        </tr>
+
+        <tr>
+        <td>05:30 pm</td>
+        <td colspan="2" class="schedule-break">End of Workshop</td>
+        </tr>
+
+        </table>
+
+  - block: markdown
+    id: program
+
+    content:
+      title: Program
+
+      text: |
+
+        <h2 style="text-align:center;">Day 1 (24 August)</h2>
 
         <div align="center">
 
