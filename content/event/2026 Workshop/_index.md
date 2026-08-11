@@ -1,8 +1,14 @@
 ---
 title: "2026 Workshop"
 
+event: 2026 Workshop
+
+location: School of Humanities, Macquarie University, Sydney
+
 date: 2026-08-24
 date_end: 2026-08-25
+
+all_day: false
 
 publishDate: 2026-01-01T00:00:00Z
 

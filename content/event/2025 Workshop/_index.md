@@ -1,5 +1,5 @@
 ---
-title: 2O25 Workshop
+title: 2025 Workshop
 
 event: 2025 Workshop
 event_url: 
