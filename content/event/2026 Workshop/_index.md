@@ -74,42 +74,42 @@ sections:
     id: program
 
     content:
-    title: Program
+      title: Program
 
-    text: |
+      text: |
 
-      ## Day 1 (24 August)
+        ## Day 1 (24 August)
 
-      <div align="center">
+        <div align="center">
 
-      | Time | Speaker | Title |
-      |------|----------|---------|
-      | 09:00-09:15 | Welcome | Opening Remarks |
-      | 09:15-10:00 | Speaker A | Title A |
-      | 10:00-10:45 | Speaker B | Title B |
-      | 10:45-11:15 |  | Coffee Break |
-      | 11:15-12:00 | Speaker C | Title C |
-      | 12:00-13:30 |  | Lunch |
-      | 13:30-14:15 | Speaker D | Title D |
+        | Time | Speaker | Title |
+        |------|----------|---------|
+        | 09:00-09:15 | Welcome | Opening Remarks |
+        | 09:15-10:00 | Speaker A | Title A |
+        | 10:00-10:45 | Speaker B | Title B |
+        | 10:45-11:15 |  | Coffee Break |
+        | 11:15-12:00 | Speaker C | Title C |
+        | 12:00-13:30 |  | Lunch |
+        | 13:30-14:15 | Speaker D | Title D |
 
-      </div>
+        </div>
 
-      ---
+        ---
 
-      ## Day 2 (25 August)
+        ## Day 2 (25 August)
 
-      <div align="center">
+        <div align="center">
 
-      | Time | Speaker | Title |
-      |------|----------|---------|
-      | 09:00-09:45 | Speaker E | Title E |
-      | 09:45-10:30 | Speaker F | Title F |
-      | 10:30-11:00 |  | Coffee Break |
-      | 11:00-11:45 | Speaker G | Title G |
-      | 11:45-12:30 | Speaker H | Title H |
-      | 12:30 |  | Closing Remarks |
+        | Time | Speaker | Title |
+        |------|----------|---------|
+        | 09:00-09:45 | Speaker E | Title E |
+        | 09:45-10:30 | Speaker F | Title F |
+        | 10:30-11:00 |  | Coffee Break |
+        | 11:00-11:45 | Speaker G | Title G |
+        | 11:45-12:30 | Speaker H | Title H |
+        | 12:30 |  | Closing Remarks |
 
-      </div>
+        </div>
 
   - block: markdown
     id: program
