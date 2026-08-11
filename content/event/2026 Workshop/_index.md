@@ -78,7 +78,7 @@ sections:
 
         <style>
         .schedule-table {
-          width: 80%;
+          width: 70%;
           margin: 0 auto 3rem auto;
           border-collapse: collapse;
         }
@@ -95,12 +95,12 @@ sections:
         }
 
         .schedule-time {
-          width: 18%;
+          width: 15%;
           white-space: nowrap;
         }
 
         .schedule-speaker {
-          width: 32%;
+          width: 35%;
         }
 
         .schedule-title {
