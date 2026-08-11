@@ -5,6 +5,8 @@ event: 2026 Workshop
 
 location: School of Humanities, Macquarie University, Sydney
 
+summary: Philosophy Meets the Life Sciences
+
 date: 2026-08-24
 date_end: 2026-08-25
 
@@ -163,7 +165,7 @@ sections:
 
         <tr>
         <td>09:45-10:30</td>
-        <td>Mingjun Zhang (University of Sydney and Macquarie University)</td>
+        <td>Mingjun Zhang (Fudan University)</td>
         <td>Demystifying Distinctively Mathematical Explanations</td>
         </tr>
 
