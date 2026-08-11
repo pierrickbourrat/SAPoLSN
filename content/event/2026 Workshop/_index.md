@@ -95,7 +95,7 @@ sections:
         }
 
         .schedule-time {
-          width: 15%;
+          width: 17%;
           white-space: nowrap;
         }
 
@@ -104,7 +104,7 @@ sections:
         }
 
         .schedule-title {
-          width: 50%;
+          width: 48%;
         }
 
         .schedule-break {
