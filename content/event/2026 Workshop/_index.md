@@ -85,9 +85,18 @@ sections:
 
         .schedule-table th,
         .schedule-table td {
-          border: 1px solid rgba(255,255,255,0.2);
+          border: 1px solid rgba(128,128,128,0.25);
           padding: 12px 16px;
           vertical-align: top;
+        }
+
+        .schedule-table th {
+          background-color: rgba(128,128,128,0.12);
+          font-weight: 600;
+        }
+
+        .schedule-table tr:nth-child(even) {
+          background-color: rgba(128,128,128,0.06);
         }
 
         .schedule-table th {
