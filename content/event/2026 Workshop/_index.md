@@ -19,8 +19,6 @@ sections:
 
         School of Humanities, Macquarie University, Sydney
 
-        Registration information coming soon.
-
       image:
         filename: workshop-poster.jpg
 
@@ -84,13 +82,20 @@ sections:
 
         | Time | Speaker | Title |
         |------|----------|---------|
-        | 09:00-09:15 | Welcome | Opening Remarks |
-        | 09:15-10:00 | Speaker A | Title A |
-        | 10:00-10:45 | Speaker B | Title B |
-        | 10:45-11:15 |  | Coffee Break |
-        | 11:15-12:00 | Speaker C | Title C |
-        | 12:00-13:30 |  | Lunch |
-        | 13:30-14:15 | Speaker D | Title D |
+        | 08:30-08:50 |  | Coffee / Registration |
+        | 08:50-09:00 |  | Welcome |
+        | 09:00-09:45 | Paul Griffiths (University of Sydney and Macquarie University) | TBA |
+        | 09:45-10:30 | Mingjun Zhang (University of Sydney and Macquarie University) | Demystifying Distinctively Mathematical Explanations |
+        | 10:30-11:00 |  | Coffee Break 1 |
+        | 11:00-11:45 | David Kaplan (Macquarie University) | It's about time: A mechanistic perspective on timescales and temporal organisation in the brain |
+        | 11:45-12:30 | Andreas Wagner (University of Zürich) | TBA |
+        | 12:30-02:00 |  | Lunch |
+        | 02:00-02:45 | Chris Lean (Macquarie University) | Genomic Globalisation |
+        | 02:45-03:30 | Cristina Villegas (Konrad Lorenz Institute for Evolution and Cognition Research) | Modeling Evolutionary Variation with Causal Probability |
+        | 03:30-04:00 |  | Coffee Break 2 |
+        | 04:00-04:45 | Rob Wilson (University of Western Australia) | The Progenerative View of Kinship as a Philosophical Intervention in the Fragile Sciences |
+        | 04:45 pm |  | End of Day 1 |
+        | 06:00 pm |  | Dinner at The Ranch |
 
         </div>
 
@@ -102,33 +107,21 @@ sections:
 
         | Time | Speaker | Title |
         |------|----------|---------|
-        | 09:00-09:45 | Speaker E | Title E |
-        | 09:45-10:30 | Speaker F | Title F |
-        | 10:30-11:00 |  | Coffee Break |
-        | 11:00-11:45 | Speaker G | Title G |
-        | 11:45-12:30 | Speaker H | Title H |
-        | 12:30 |  | Closing Remarks |
+        | 08:30-09:00 |  | Coffee / Arrival |
+        | 09:00-09:45 | David Raubenheimer (University of Sydney) | Agencies in nutritional systems |
+        | 09:45-10:30 | Rachael Brown (Australian National University) | TBA |
+        | 10:30-11:00 |  | Coffee Break 1 |
+        | 11:00-11:45 | Yafeng Shan (The Hong Kong University of Science and Technology) | Origins of Genetics Revisited |
+        | 11:45-12:30 | Andrew Barron (Macquarie University) | The first neural spatial representation |
+        | 12:30-02:00 |  | Lunch |
+        | 02:00-02:45 | John Matthewson (Massey University) | Model organisms and population types |
+        | 02:45-03:30 | Sandy Boucher (University of New England) | Endogenising organisation: organicism and the major transitions in evolution |
+        | 03:30-04:00 |  | Coffee Break 2 |
+        | 04:00-04:45 | Patrick McGivern (University of Wollongong) | Transitions in biological individuality and mesoscale structure |
+        | 04:45-05:30 | Ken Cheng (Macquarie University) | Basic units of action as basis for navigation |
+        | 05:30 pm |  | End of Workshop |
 
         </div>
-
-  - block: markdown
-    id: program
-
-    content:
-      title: Program
-
-      text: |
-
-        ### Day 1 (24 August)
-
-        Program information coming soon.
-
-        ---
-
-        ### Day 2 (25 August)
-
-        Program information coming soon.
-
 
   - block: markdown
     id: location
