@@ -221,7 +221,7 @@ sections:
         </tr>
 
         <tr>
-        <td>04:45 pm</td>
+        <td>05:30 pm</td>
         <td colspan="2" class="schedule-break">End of Day 1</td>
         </tr>
 
