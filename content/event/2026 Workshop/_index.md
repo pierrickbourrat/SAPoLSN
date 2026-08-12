@@ -441,6 +441,7 @@ sections:
           </div>
 
           <div class="sponsor-card">
+            <img src="/images/institutions/mirc.jpg" alt="mirc logo">
             <div class="sponsor-name">
               <a href="https://www.mq.edu.au/research/research-centres-institutes-and-initiatives/minds-and-intelligences" target="_blank" rel="noopener">
                 Minds and Intelligences Research Centre

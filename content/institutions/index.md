@@ -105,6 +105,15 @@ type: page
   <div class="institution-title">Partner Entities</div>
   <div class="institution-grid">
     <div class="institution-card">
+      <img src="/images/institutions/mirc.jpg" alt="Minds and Intelligences Research Centre logo">
+      <div class="institution-name">
+        <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/minds-and-intelligences" target="_blank" rel="noopener">
+          Minds and Intelligences Research Centre
+        </a>
+      </div>
+      <div class="institution-affiliation">Macquarie University</div>
+    </div>
+    <div class="institution-card">
       <img src="/images/institutions/CPS.jpg" alt="Centre for Philosophy of Science logo">
       <div class="institution-name">
         <a href="https://philsci.hkust.edu.hk/home" target="_blank" rel="noopener">
@@ -121,14 +130,6 @@ type: page
         </a>
       </div>
       <div class="institution-affiliation">Fudan University</div>
-    </div>
-    <div class="institution-card no-logo">
-      <div class="institution-name">
-        <a href="https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/minds-and-intelligences" target="_blank" rel="noopener">
-          Minds and Intelligences Research Centre
-        </a>
-      </div>
-      <div class="institution-affiliation">Macquarie University</div>
     </div>
   </div>
 </div>
