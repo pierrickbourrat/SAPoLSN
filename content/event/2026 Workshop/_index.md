@@ -159,8 +159,8 @@ sections:
 
         <tr>
         <td>09:00-09:45</td>
-        <td>Paul Griffiths (University of Sydney and Macquarie University)</td>
-        <td>TBA</td>
+        <td>Rob Wilson (University of Western Australia)</td>
+        <td>The Progenerative View of Kinship as a Philosophical Intervention in the Fragile Sciences</td>
         </tr>
 
         <tr>
@@ -216,8 +216,8 @@ sections:
 
         <tr>
         <td>04:45-05:30</td>
-        <td>Rob Wilson (University of Western Australia)</td>
-        <td>The Progenerative View of Kinship as a Philosophical Intervention in the Fragile Sciences</td>
+        <td>Paul Griffiths (University of Sydney and Macquarie University)</td>
+        <td>Animal Personalities</td>
         </tr>
 
         <tr>
