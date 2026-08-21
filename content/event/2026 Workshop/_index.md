@@ -165,13 +165,13 @@ sections:
         </tr>
 
         <tr>
-        <td>Morning</td>
-        <td colspan="2" class="schedule-break">Chair: Pierrick Bourrat</td>
+        <td>8:50-9:00</td>
+        <td colspan="2" class="schedule-break">Welcome</td>
         </tr>
 
         <tr>
-        <td>8:50-9:00</td>
-        <td colspan="2" class="schedule-break">Welcome</td>
+        <td>Morning</td>
+        <td colspan="2" class="schedule-break">Chair: Pierrick Bourrat</td>
         </tr>
 
         <tr>
