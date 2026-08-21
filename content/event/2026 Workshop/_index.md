@@ -200,7 +200,7 @@ sections:
         <tr>
         <td>11:45-12:30</td>
         <td>Andreas Wagner (University of Zürich)</td>
-        <td>TBA</td>
+        <td>On the origin of new genes</td>
         </tr>
 
         <tr>
