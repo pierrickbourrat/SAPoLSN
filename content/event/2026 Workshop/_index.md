@@ -233,7 +233,7 @@ sections:
         <tr>
         <td>4:00-4:45</td>
         <td>Richard Menary (Macquarie University)</td>
-        <td>TBA</td>
+        <td>Good Enough? Optimising and Satisficing Strategies in Evolution and Cognition</td>
         </tr>
 
         <tr>
