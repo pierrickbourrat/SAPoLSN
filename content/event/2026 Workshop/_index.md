@@ -148,7 +148,7 @@ sections:
         </h2>
 
         <p style="text-align:center; margin-top:0; margin-bottom:1.5rem;">
-        strong>Venue:</strong> Room 121, 1 Management Drive
+        <strong>Venue:</strong> Room 121, 1 Management Drive
         </p>
 
         <table class="schedule-table">
@@ -253,7 +253,7 @@ sections:
         </h2>
 
         <p style="text-align:center; margin-top:0; margin-bottom:1.5rem;">
-        strong>Venue:</strong> Room 101, 1 Management Drive
+        <strong>Venue:</strong> Room 101, 1 Management Drive
         </p>
 
         <table class="schedule-table">
