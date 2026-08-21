@@ -33,7 +33,7 @@ sections:
         School of Humanities, Macquarie University, Sydney
 
       image:
-        filename: workshop-poster.jpg
+        filename: 2026workshop.jpg
 
 
   - block: markdown
