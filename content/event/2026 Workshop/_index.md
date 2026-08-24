@@ -141,6 +141,7 @@ sections:
             rel="noopener">
             📄 Download Program (PDF)
           </a>
+          (Updated on 24 Aug)
         </div>
 
         <h2 style="text-align:center; margin-bottom:0.5rem;">
@@ -171,7 +172,7 @@ sections:
 
         <tr>
         <td>Morning</td>
-        <td colspan="2" class="schedule-break">Chair: Pierrick Bourrat</td>
+        <td colspan="2" class="schedule-break">Chair: Pierrick Bourrat (Macquarie University)</td>
         </tr>
 
         <tr>
@@ -210,7 +211,7 @@ sections:
 
         <tr>
         <td>Afternoon</td>
-        <td colspan="2" class="schedule-break">Chair: Kangqiao Wang</td>
+        <td colspan="2" class="schedule-break">Chair: Kangqiao Wang (Macquarie University)</td>
         </tr>
 
         <tr>
@@ -271,7 +272,7 @@ sections:
 
         <tr>
         <td>Morning</td>
-        <td colspan="2" class="schedule-break">Chair: Yiwen Zhan</td>
+        <td colspan="2" class="schedule-break">Chair: Yiwen Zhan (Peking University)</td>
         </tr>
 
         <tr>
@@ -283,7 +284,7 @@ sections:
         <tr>
         <td>9:45-10:30</td>
         <td>Rachael Brown (Australian National University)</td>
-        <td>TBA</td>
+        <td>Is evolvability a disposition? Or why I was wrong in 2014</td>
         </tr>
 
         <tr>
@@ -310,7 +311,7 @@ sections:
 
         <tr>
         <td>Afternoon</td>
-        <td colspan="2" class="schedule-break">Chair: Matthew Sims</td>
+        <td colspan="2" class="schedule-break">Chair: Matthew Sim (Macquarie University)</td>
         </tr>
 
         <tr>
