@@ -271,7 +271,7 @@ sections:
 
         <tr>
         <td>Morning</td>
-        <td colspan="2" class="schedule-break">Chair: Peter Takacs</td>
+        <td colspan="2" class="schedule-break">Chair: Yiwen Zhan</td>
         </tr>
 
         <tr>
