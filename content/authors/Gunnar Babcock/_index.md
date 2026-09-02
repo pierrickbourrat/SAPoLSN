@@ -66,7 +66,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Instructors
-  - Speakers2026
+
 ---
 
 Gunnar Babcock is a lecturer in the College of Agriculture and Life Sciences and an affiliate in the Sage School of Philosophy, both at Cornell University. Before coming to Cornell, he spent four years as a postdoc in the Biology Dept. at Duke University working with Dan McShea. 
